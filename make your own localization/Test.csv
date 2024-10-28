@@ -1,0 +1,53 @@
+0	Português	UI language name
+1	Polícia	UI
+2	Doutor	UI
+3	Não se pode ir a lado nenhum.	UI
+4	Fechado	UI
+5	A bolsa de valores está fechada aos fins-de-semana.	UI
+6	O banco não trabalha aos fins-de-semana.	UI
+7	Estamos prontos a conceder-lhe um empréstimo para#{global.summa} a <bankpro>% #Retiraremos o montante necessário da sua conta todos os meses.	UI
+8	Banco	UI
+9	Felicidade	UI
+10	Conforto	UI
+11	Stress	UI
+12	Despesas pessoais	UI
+13	Despesas médicas	UI
+14	Gastou ontem ~	UI
+15	Está sob custódia	UI
+16	O Estado fornece-lhe	UI
+17	O JOGO ACABOU	UI
+18	A tua casa: 	UI
+19	Alojamento de aluguer (10000 ienes por dia)	UI
+20	O teu carro: 	UI
+21	Fortuna:	UI
+22	Rendimento: 	UI
+23	Despesas: 	UI
+24	Lucro: 	UI
+25	Imposto sobre o rendimento: 	UI
+26	Dívida: 	UI
+27	Casa	UI
+28	Gráficos	UI
+29	Bolsa de valores	UI
+30	Bolsa de valores	UI
+31	Instalações	UI
+32	Consultor	UI
+33	Imobiliária	UI
+34	Automóvel	UI
+35	depois de vender a sua casa	UI
+36	depois de vender o seu carro	UI
+37	Venda	UI
+38	Comprar	UI
+39	Quer vender o seu carro por 	UI
+40	Quer comprar este carro?	UI
+41	Não tem dinheiro suficiente.	UI
+42	Tem a certeza de que quer vender a sua casa por	UI
+43	Quer comprar esta casa?	UI
+44	Sem carro	UI
+45	Automóvel ligeiro usado	UI
+46	Carro de classe ligeira	UI
+47	Carro compacto usado	UI
+48	Automóvel compacto	UI
+49	Carro de classe média	UI
+50	Automóvel de classe executiva	UI
+51	Carro de luxo	UI
+52	Sem casa	UI

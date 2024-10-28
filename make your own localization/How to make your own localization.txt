@@ -1,0 +1,99 @@
+
+=====================================================================================
+STONKS-9800: Stock Market Simulator
+=====================================================================================
+
+In 0.2 version I made an easy way to add your own language to the game without replacing the existing language in the game, and to easily add and customize your own fonts.
+
+Another advantage of the new method is that if new lines appear in the game, the game will not return errors on untranslated lines, but will return the English version of the line.
+
+=====================================================================================
+How to Create Your Own Localization
+=====================================================================================
+
+
+Follow these steps to localize the game into your own language:
+
+Step 1: Locate the Text for Translation
+All text for translation is found in the stonks.csv file (located in the game folder).
+
+Step 2: Copy and Edit the CSV File
+Copy the stonks.csv file.
+Replace the English text with your translated text (read more about this in "Guide for Creating a CSV File for Translation").
+
+Step 3: Rename the CSV File
+Name the copied file with the name of your language. This name will be used in the game.
+
+
+==Optional Steps for Font Customization==
+
+Step 4: Use the Localization Folder
+Go to the "make your own localization" folder.
+
+Step 5: Copy and Rename the INI File
+Copy the Test.ini file to the game's root folder.
+Rename this file to match the name of your CSV file (e.g., if your CSV file is French.csv, rename the INI file to French.ini).
+
+Step 6: Customize the INI File
+Open the renamed INI file.
+Follow the instructions within the file to customize the font settings (read more about this below in "Guide to Using an INI File").
+
+Step 7: Add a Custom Font (Optional)
+If you want to use your own font, copy the font file to the root folder of the game (read more about this below in "Guide to Using an INI File").
+
+
+=====================================================================================
+Guide for Creating a CSV File for Translation
+=====================================================================================
+
+A CSV (Comma-Separated Values) file is useful for storing data that can be easily imported and exported. For translation purposes, follow these steps:
+
+Step 1: Choose Software
+Use any text editor or spreadsheet program like Microsoft Excel, Google Sheets, or Notepad.
+
+Step 2: Structure
+The file should have two columns: one for the unique ID or line number, and one for the text to be translated.
+
+Step 3: Headers
+In the first row, create headers for each column, e.g., "ID" and "Chinese".
+
+Step 4: Add Data
+Enter the text for translation in the corresponding columns. Each row should have a unique ID or line number.
+Use tabulation, not commas, between rows.
+
+Step 5: Save the File
+Save the file with a .csv extension and ensure it is encoded in UTF-8 to avoid character encoding issues. Name it the name of the language.
+
+
+
+=====================================================================================
+Guide to Using an INI File
+=====================================================================================
+
+For configuration purposes, it's often easier to start with a pre-existing INI file rather than creating one from scratch. Here's a quick guide:
+
+Step 1: Use the Example INI File
+Open Test.ini file in any text editor, such as Notepad or any other text editor you prefer.
+
+
+Step 2: Understand the Structure
+Sections: Sections are defined within square brackets [SectionName].
+Keys and Values: Each section contains keys and values in the format Key=Value.
+
+Step 3: Modify the INI File
+Edit Sections and Keys: Locate the section you need to modify and adjust the values as required.
+For example, if you need to change the font size, find Font_Size and change its value.
+
+Save Changes: After making your modifications, save the file. Be sure to rename it the same way as the csv file.
+
+For more detailed information, refer directly to the Test.ini file. 
+
+
+=====================================================================================
+
+Thank you for your attention to my game! You are incredible!
+
+If you have any questions or comments, please email me@ternoxgames.com
+
+=====================================================================================
+stonks.jp
