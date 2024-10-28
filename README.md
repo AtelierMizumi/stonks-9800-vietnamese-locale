@@ -13,18 +13,12 @@ Paste the file **vietnamese.csv** and **vietnamese.ini** to the root folder of t
 
 ## File description
 
-File name  | Info
-
+File name | Info
 --- | ---
-
-stonks.csv  | Original language file
-
-surname.csv |  Original surname files
-
-Test.csv  |  Sample Translation in Portuguese 
-
+stonks.csv | Original language file
+surname.csv | Original surname files
+Test.csv |  Sample Translation in Portuguese 
 Test.ini | Font and Symbol setting file for the translation
-
 vietnamese.csv | Translated language file
 
 
