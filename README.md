@@ -5,16 +5,17 @@
 
 [Tiếng Việt](VIET_README.md)
 
-![picture alt](splash.png Splash Art")
+![STONKS 9800 Splash Art](splash.png "Splash Art")
 
 ## Installation 
 
-Paste the file **Vietnamese** and **Test.ini** to the root folder of the game## File description
+Paste the file **vietnamese.csv** and **vietnamese.ini** to the root folder of the game
 
+## File description
 
 File name  | Info
 
-------------- | -------------
+--- | ---
 
 stonks.csv  | Original language file
 
