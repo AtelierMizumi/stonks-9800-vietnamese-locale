@@ -3,7 +3,7 @@
 
 **Vietnamese translation** for the stock market simulator game [STONKS 9800](https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/)
 
-[Tiếng Việt](VIET_README.md)
+[Tiếng Việt](VIET-README.md)
 
 ![STONKS 9800 Splash Art](splash.png "Splash Art")
 
