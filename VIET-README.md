@@ -10,7 +10,8 @@ Bản tịch **Tiếng Việt** cho tựa game giả lập chứng khoán <a hre
 
 ## Cài đặt
 
-Copy file [**vietnamese.csv**](vietnamese.csv) và file [**vietnamese.ini**] vào trong thư mục gốc của game (thư mục chứa file exe khởi động game)
+Vào mục Release để tải về file nén
+Giải nén và copy file [**vietnamese.csv**](vietnamese.csv) và file [**vietnamese.ini**](vietnamese.ini) vào trong thư mục gốc của game (thư mục chứa file exe khởi động game)
 
 ## Mô tả
 
@@ -22,6 +23,8 @@ surname.csv | File tên đêm gốc của game
 Test.csv | File kiểm tra môi trường dịch thuật trong tiếng Tây Ban Nha 
 Test.ini | Chứa cấu hình **font chữ** và **kí hiệu** cho ngôn ngữ
 vietnamese.csv | File ngôn ngữ tiếng Việt đã dịch
+vietnamese.ini | Chứa các điều chỉnh cần thiết cho hiển thị chữ
+vietnamese.ttf | Font cần thiết để hiển thị
 
 
 ## Credits

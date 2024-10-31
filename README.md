@@ -9,7 +9,8 @@
 
 ## Installation 
 
-Paste the file **vietnamese.csv** and **vietnamese.ini** to the root folder of the game
+Head to Release and download the files
+Extract and paste the file [**vietnamese.csv**](vietnamese.csv), [**vietnamese.ini**](vietnamese.ini), [vietnamese.ttf](vietnamese.ttf) to the root folder of the game
 
 ## File description
 
@@ -20,7 +21,8 @@ surname.csv | Original surname files
 Test.csv |  Sample Translation in Portuguese 
 Test.ini | Font and Symbol setting file for the translation
 vietnamese.csv | Translated language file
-
+vietnamese.ini | Contains font related configurations
+vietnamese.ttf | Font needed to render Vietnamese text
 
 ## Authors
 

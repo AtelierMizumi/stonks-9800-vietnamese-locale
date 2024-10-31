@@ -6,78 +6,78 @@
 5	The stock market is closed on weekends.	Сьогодні вихідний, біржа не працює.	週末は株式市場は休みです。	휴일에는 주식 시장을 열지 않습니다.	UI	
 6	Bank does not work on weekends.	Сьогодні вихідний, банк не працює.	週末は銀行は休みです。	휴일에는 은행을 열지 않습니다.	UI	
 7	We are ready to provide you with a loan for#{global.summa} at <bankpro>% #We will withdraw the required amount from your account every month.	Ми готові надати вам кредит у#{global.summa} під <bankpro>%. Ми зніматимемо з вашого рахунку потрібну суму кожен місяць.	金利<bankpro>%で#{global.summa}の融資をご提供する準備ができています。#毎月お客様の口座から必要な金額をお引き落としします。	#{global.summa} <bankpro>% 금리로 대출해 드릴 수 있습니다.#매달 계좌에서 일정 금액이 상환됩니다.	UI	
-8	Bank	Банк	銀行	은행	UI	
-9	Happiness	Щастя	幸福度	행복	UI	
-10	Comfort	Комфорт	快適度	편의	UI	
-11	Stress	Стрес	ストレス	스트레스	UI	
-12	Personal expenses	Особисті витрати	個人的経費	개인 지출	UI	
-13	Treatment costs	Витрати на лікування	医療費	치료비	UI	
-14	Spent yesterday～	Витрачено вчора～	昨日の出費～	어제의 지출～	UI	
-15	You're in custody	Ви під вартою	あなたは拘留されています	구속된 상태입니다	UI	
-16	The state provides you	Вас забезпечує держава	国からの支給	국가 지원:	UI	
+8	Ngân hàng	Банк	銀行	은행	UI
+9	Hạnh phúc	Щастя	幸福度	행복	UI
+10	Thoải mái	Комфорт	快適度	편의	UI
+11	Stress	Стрес	ストレス	스트레스	UI
+12	Chi tiêu cá nhân	Особисті витрати	個人的経費	개인 지출	UI
+13	Chi phí điều trị	Витрати на лікування	医療費	치료비	UI
+14	Đã chi hôm qua～	Витрачено вчора～	昨日の出費～	어제의 지출～	UI
+15	Bạn đang được bảo hộ	Ви під вартою	あなたは拘留されています	구속된 상태입니다	UI
+16	Tỉnh đã cấp cho bạn	Вас забезпечує держава	国からの支給	국가 지원:	UI
 17	GAME OVER	ГРУ ЗАКІНЧЕНО	ゲームオーバー	게임 오버	UI	
-18	Your home: 	Ваше житло: 	所有住宅：	소유 주택:	UI	
-19	Rental Housing (10000 yen per day)	Орендоване житло (10000 єн за добу)	賃貸住宅（1泊10,000円）	임대 (10000엔/일)	UI	
-20	Your car: 	Ваша машина: 	所有車：	소유 차량:	UI	
-21	Fortune:	Загальний статок:	資産：	재산:	UI	
-22	Income: 	Дохід: 	収入：	수입:	UI	
-23	Expenses: 	Витрати: 	支出：	지출:	UI	
-24	Profit: 	Прибуток: 	純利益：	수익:	UI	
-25	Income tax	Податок на доходи	所得税	소득세	UI	
-26	Debt: 	Борг: 	負債：	부채:	UI	
-27	Home	Головна	ホーム	집	UI	
+18	Nhà của bạn: 	Ваше житло: 	所有住宅：	소유 주택:	UI
+19	Nhà thuê (10000 yên một ngày)	Орендоване житло (10000 єн за добу)	賃貸住宅（1泊10,000円）	임대 (10000엔/일)	UI
+20	Xe của bạn: 	Ваша машина: 	所有車：	소유 차량:	UI
+21	Tài sản:	Загальний статок:	資産：	재산:	UI
+22	Thu nhập: 	Дохід: 	収入：	수입:	UI
+23	Chi tiêu: 	Витрати: 	支出：	지출:	UI
+24	Lãi: 	Прибуток: 	純利益：	수익:	UI
+25	Thuế thu nhập	Податок на доходи	所得税	소득세	UI
+26	Nợ: 	Борг: 	負債：	부채:	UI
+27	Nhà	Головна	ホーム	집	UI
 28	Biểu đồ	Курси	チャート	차트	UI
 29	Giao dịch	Біржа	取引所	거래소	UI
 30	Thị trường	Фондова біржа	株式市場	주식 시장	UI
 31	Cơ sở vật chất	Послуги	施設	자산	UI
 32	Thư kí	Радниця	顧問	자문	UI
-33	Real Estate	Нерухомість	不動産	부동산	UI	
-34	Car	Автомобіль	自動車	차량	UI	
-35	after selling your house	після продажу вашого будинку	所有住宅売却後	주택 매각 후	UI	
-36	after selling your car	після продажу вашої машини	所有車売却後	차량 매각 후	UI	
-37	Sale	Продаж	売却	매각	UI	
-38	Buy	Купівля	購入	매입	UI	
-39	Do you want to sell your car for 	Ви хочете продати свою машину	次の金額で車を売りますか。	다음 금액으로 차량을 판매합니다:	UI	
-40	Do you want to buy this car?	Ви хочете купити цю машину?	この車を買いますか？	이 차량을 구입하시겠습니까?	UI	
-41	You don't have enough money.	У вас бракує грошей.	お金が足りません。	돈이 부족합니다.	UI	
-42	Are you sure you want to sell your house for	Ви впевнені, що хочете продати свій дім?	本当に次の金額で家を売っていいですか？	다음 금액으로 주택을 판매합니다:	UI	
-43	Do you want to buy this?	Ви хочете купити це?	これを買いますか？	정말 매입하시겠습니까?	UI	
-44	No car	Немає автомобіля	車なし	차량 없음	UI	
-45	Used light class car	Б/в легкого класу	中古軽自動車	중고 경차	UI	
-46	Light Class Car	Легкий клас	軽自動車	경차	UI	
-47	Used compact car	Б/в компакт	中古コンパクトカー	중고 소형차	UI	
-48	Compact Car	Компакт	コンパクトカー	소형차	UI	
-49	Middle Class Car	Середній клас	大型車	중형차	UI	
-50	Business class car	Бізнес-клас	エグゼクティブカー	중형차	UI	
-51	Luxury class car	Представницький клас	高級車	고급차	UI	
-52	No house	Нема будинку	住宅なし	주택 없음	UI	
-53	Studio flat 1R - Small Studio flat in the apartment	Квартира-студія 1R - маленька квартира-студія в апартаментах	ワンルーム1R - 小さなワンルームマンション	원룸 - 소형 원룸	UI	
-54	Studio flat 1K - small studio flat with kitchen in the apartment	Квартира-студія 1K - маленька квартира-студія з кухнею в апартаментах	ワンルーム1K - キッチン付きの小さなワンルームマンション	주방 원룸 - 주방이 있는 소형 원룸	UI	
-55	Studio flat 1D - small studio flat with separate kitchen in the apartment	Квартира-студія 1D - невелика квартира-студія з окремою кухнею в апартаментах.	ワンルーム1D - 独立したキッチンの付いた小さなワンルームマンション	주방 원룸 - 별도의 공간에 주방이 있는 소형 원룸	UI	
-56	Apartment 1DK - flat with a large kitchen in the apartment	Квартира 1Dk - квартира з великою кухнею в апартаментах	マンション1DK - ダイニングキッチン付き	주방 아파트 - 별도의 공간에 큰 주방이 있는 아파트	UI	
-57	Apartment 1LDK - flat with room, living room and all amenities in the apartment	Квартира 1LDK - квартира з кімнатою, вітальнею і усіма зручностями в апартаментах	マンション1LDK - 居室1、 リビング、ダイニングキッチン付き	거실 아파트 - 별도의 공간에 방, 거실과 필수 가전이 있는 아파트	UI	
-58	Apartment 2LDK - flat with two rooms, living room and all amenities in the apartment	Квартира 2LDK  - квартира з двома кімнатами, вітальнею і усіма зручностями в апартаментах	マンション2LDK - 居室2、 リビング、ダイニングキッチン付き	거실 투룸 아파트 - 별도의 공간에 방 2개, 거실과 필수 가전이 있는 아파트	UI	
-59	Apartment 3LDK - flat with three rooms, living room and all amenities in the apartment	Квартира 3LDK - квартира з трьома кімнатами, вітальнею і усіма зручностями в апартаментах	マンション3LDK - 居室3、リビング、ダイニングキッチン付き	거실 쓰리룸 아파트 - 별도의 공간에 방 3개, 거실과 필수 가전이 있는 아파트	UI	
-60	House 3LDK - a private house with three rooms, living room and all amenities	Будинок 3LDK - приватний будинок з трьома кімнатами, вітальнею і усіма зручностями	戸建3LDK - 居室3、 リビング、ダイニングキッチン付き	거실 쓰리룸 주택 - 별도의 공간에 방 3개, 거실과 필수 가전이 있는 주택	UI	
-61	House 4LDK - two-storey private house with four rooms, living room and all amenities	Двоповерховий будинок 4ldk - двоповерховий приватний будинок з чотирма кімнатами, вітальнею і усіма зручностями	戸建4LDK - 居室4、 リビング、ダイニングキッチン付きの2階建て	거실 포룸 주택 - 별도의 공간에 방 4개, 거실과 필수 가전이 있는 2층 주택	UI	
-62	Mansion 5LDK - a large mansion in the country	Особняк 5ldk - великий маєток за містом	豪邸5LDK - 田舎の大きな邸宅	파이브룸 저택 - 교외의 대형 저택	UI	
-63	Congratulations, your health is in good shape!	Поздоровляю, ви здорові!	ご安心ください。健康状態は良好です！	축하합니다, 건강을 되찾았습니다!	Doctor message	
-64	Bankrupt	Банкрот	破産	파산	UI	
-65	The bank has auctioned off your car <car_name>, so you have received {prpr}.	Банк виставив вашу машину <car_name> на аукціон, завдяки чому ви отримали {prpr}.	銀行があなたの車<car_name>を競売にかけたので、 あなたは{prpr}を受け取りました。	은행에서 진행한 차량 <car_name>의 경매로 {prpr}의 금액을 받았습니다.	UI	
-66	The bank has auctioned off your house <name_house>, so you have received {prpr}.	Банк виставив ваш будинок <name_house> на аукціон, завдяки чому ви отримали {prpr}.	銀行があなたの家<name_house>を競売にかけたので、 あなたは{prpr}を受け取りました。	은행에서 진행한 주택 <name_house>의 경매로 {prpr}의 금액을 받았습니다.	UI	
-67	You had to sell all of your company's stock <pepe2> for {iz} to pay off the debt.	Ви були вимушені продати усі свої акції компанії <pepe2> за {iz} щоб розплатитися з боргами.	借金返済のために<pepe2>社の全株式を{iz}で売却せざるを得ませんでした。	부채를 청산하고자 <pepe2> 주식을 {iz}에 전량 매각했습니다.	UI	
-68	You will not be able to pay off your debts. The game is over.	Ви не зможете розплатитися з боргами. Гра закінчена.	借金の返済ができません。ゲームオーバーです。	부채를 감당할 수 없습니다. 게임은 끝났습니다.	UI	
-69	You are free to go. Welcome back to freedom!	Ви вільні. З поверненням на волю!	あなたは自由の身です。 また自由になれて良かったですね。	구속에서 풀려나 다시 자유의 몸이 되었습니다.	UI	
-70	You spent the night outside. You have bilateral pneumonia. Go to the hospital, now!	Ви ночували на вулиці і отримали двостороннє запалення легенів. Негайно до лікарні!	外で一晩過ごしたら、 両側性の肺炎にかかってしまいました。すぐに病院に行ってください！	밖에서 노숙을 하다가 폐렴에 걸렸습니다. 당장 병원으로 가세요!	Doctor message	
-71	Friend	Друг	友人	친구	UI	
-72	Hi, thank you for lending me money! I'll pay you back everything and even <momomo>% more!	Привіт, спасибі за те, що позичив гроші! Повертаю тобі все і навіть на <momomo>% більше!	お金を貸してくれてありがとう！全額返して、その上<momomo>%分も払うよ！	안녕, 돈 빌려줘서 고마워! 이자까지 <momomo>% 쳐서 갚을게!	Friend message	
-73	The phone is ringing, do you want to answer it?	Лунає дзвінок, чи хочете ви узяти трубку?	電話が鳴っていますが、出ますか？	전화가 울립니다. 받으시겠습니까?	UI	
+33	Bất động sản	Нерухомість	不動産	부동산	UI
+34	Xe	Автомобіль	自動車	차량	UI
+35	sau khi bán nhà	після продажу вашого будинку	所有住宅売却後	주택 매각 후	UI
+36	sau khi bán xe	після продажу вашої машини	所有車売却後	차량 매각 후	UI
+37	Bán	Продаж	売却	매각	UI
+38	Mua	Купівля	購入	매입	UI
+39	Bạn có muốn bán xe này với giá 	Ви хочете продати свою машину	次の金額で車を売りますか。	다음 금액으로 차량을 판매합니다:	UI
+40	Bạn có muốn mua xe này?	Ви хочете купити цю машину?	この車を買いますか？	이 차량을 구입하시겠습니까?	UI
+41	Bạn không có đủ tiền.	У вас бракує грошей.	お金が足りません。	돈이 부족합니다.	UI
+42	Bạn có muốn bán nhà này với giá	Ви впевнені, що хочете продати свій дім?	本当に次の金額で家を売っていいですか？	다음 금액으로 주택을 판매합니다:	UI
+43	Bạn có muốn mua?	Ви хочете купити це?	これを買いますか？	정말 매입하시겠습니까?	UI
+44	Không xe	Немає автомобіля	車なし	차량 없음	UI
+45	Đã sử dụng xe con	Б/в легкого класу	中古軽自動車	중고 경차	UI
+46	Xe Con	Легкий клас	軽自動車	경차	UI
+47	Đã sử dụng xe hạng nhỏ gọn	Б/в компакт	中古コンパクトカー	중고 소형차	UI
+48	Xe Nhỏ Gọn	Компакт	コンパクトカー	소형차	UI
+49	Xe hạng trung	Середній клас	大型車	중형차	UI
+50	Xe hạng thương gia	Бізнес-клас	エグゼクティブカー	중형차	UI
+51	Xe hạng siêu sang	Представницький клас	高級車	고급차	UI
+52	Không nhà	Нема будинку	住宅なし	주택 없음	UI
+53	Nhà trọ 1R - Nhà trọ nhỏ trong căn hộ	Квартира-студія 1R - маленька квартира-студія в апартаментах	ワンルーム1R - 小さなワンルームマンション	원룸 - 소형 원룸	UI
+54	Nhà trọ 1K - Nhà trọ nhỏ với một gian bếp trong căn hộ	Квартира-студія 1K - маленька квартира-студія з кухнею в апартаментах	ワンルーム1K - キッチン付きの小さなワンルームマンション	주방 원룸 - 주방이 있는 소형 원룸	UI
+55	Nhà trọ 1D - Nhà trọ nhỏ với một gian bếp tách rời trong căn hộ	Квартира-студія 1D - невелика квартира-студія з окремою кухнею в апартаментах.	ワンルーム1D - 独立したキッチンの付いた小さなワンルームマンション	주방 원룸 - 별도의 공간에 주방이 있는 소형 원룸	UI
+56	Căn hộ 1DK - căn hộ với một gian bếp lớn trong căn hộ	Квартира 1Dk - квартира з великою кухнею в апартаментах	マンション1DK - ダイニングキッチン付き	주방 아파트 - 별도의 공간에 큰 주방이 있는 아파트	UI
+57	Căn hộ 1LDK - căn hộ với một phòng ngủ, phòng khách và tất cả tiện nghi	Квартира 1LDK - квартира з кімнатою, вітальнею і усіма зручностями в апартаментах	マンション1LDK - 居室1、 リビング、ダイニングキッチン付き	거실 아파트 - 별도의 공간에 방, 거실과 필수 가전이 있는 아파트	UI
+58	Căn hộ 2LDK - căn hộ với hai phòng ngủ, phòng khách và tất cả tiện nghi	Квартира 2LDK  - квартира з двома кімнатами, вітальнею і усіма зручностями в апартаментах	マンション2LDK - 居室2、 リビング、ダイニングキッチン付き	거실 투룸 아파트 - 별도의 공간에 방 2개, 거실과 필수 가전이 있는 아파트	UI
+59	Căn hộ 3LDK - căn hộ với ba phòng ngủ, phòng khách và tất cả tiện nghi	Квартира 3LDK - квартира з трьома кімнатами, вітальнею і усіма зручностями в апартаментах	マンション3LDK - 居室3、リビング、ダイニングキッチン付き	거실 쓰리룸 아파트 - 별도의 공간에 방 3개, 거실과 필수 가전이 있는 아파트	UI
+60	Nhà 3LDK - nhà riêng với ba phòng ngủ, phòng khách và tất cả tiện nghi	Будинок 3LDK - приватний будинок з трьома кімнатами, вітальнею і усіма зручностями	戸建3LDK - 居室3、 リビング、ダイニングキッチン付き	거실 쓰리룸 주택 - 별도의 공간에 방 3개, 거실과 필수 가전이 있는 주택	UI
+61	Nhà 4LDK - nhà riêng hai-tầng với bốn phòng ngủ, phòng khách và tất cả tiện nghi	Двоповерховий будинок 4ldk - двоповерховий приватний будинок з чотирма кімнатами, вітальнею і усіма зручностями	戸建4LDK - 居室4、 リビング、ダイニングキッチン付きの2階建て	거실 포룸 주택 - 별도의 공간에 방 4개, 거실과 필수 가전이 있는 2층 주택	UI
+62	Chung cư 5LDK - một chung cư lớn ở lòng thành phố	Особняк 5ldk - великий маєток за містом	豪邸5LDK - 田舎の大きな邸宅	파이브룸 저택 - 교외의 대형 저택	UI
+63	Chúc mừng! Bạn đã khỏe trở lại.	Поздоровляю, ви здорові!	ご安心ください。健康状態は良好です！	축하합니다, 건강을 되찾았습니다!	Doctor message
+64	Phá sản	Банкрот	破産	파산	UI
+65	Ngân hàng đã đấu giá xe <car_name> của bạn, nên bạn nhận được {prpr}.	Банк виставив вашу машину <car_name> на аукціон, завдяки чому ви отримали {prpr}.	銀行があなたの車<car_name>を競売にかけたので、 あなたは{prpr}を受け取りました。	은행에서 진행한 차량 <car_name>의 경매로 {prpr}의 금액을 받았습니다.	UI
+66	Ngân hàng đã đấu giá nhà <name_house> của bạn, nên bạn nhận được {prpr}.	Банк виставив ваш будинок <name_house> на аукціон, завдяки чому ви отримали {prpr}.	銀行があなたの家<name_house>を競売にかけたので、 あなたは{prpr}を受け取りました。	은행에서 진행한 주택 <name_house>의 경매로 {prpr}의 금액을 받았습니다.	UI
+67	Bạn phải bán hết cổ phiếu của công ty <pepe2> với giá {iz} để trả nợ.	Ви були вимушені продати усі свої акції компанії <pepe2> за {iz} щоб розплатитися з боргами.	借金返済のために<pepe2>社の全株式を{iz}で売却せざるを得ませんでした。	부채를 청산하고자 <pepe2> 주식을 {iz}에 전량 매각했습니다.	UI
+68	Bạn không thể trả hết số nợ. Trò chơi kết thúc.	Ви не зможете розплатитися з боргами. Гра закінчена.	借金の返済ができません。ゲームオーバーです。	부채를 감당할 수 없습니다. 게임은 끝났습니다.	UI
+69	Bạn đã ra tù. Chào mừng trở lại với tự do!	Ви вільні. З поверненням на волю!	あなたは自由の身です。 また自由になれて良かったですね。	구속에서 풀려나 다시 자유의 몸이 되었습니다.	UI
+70	Bạn đã ngủ ở ngoài đường. Bạn đã bị viêm phổi. Bạn phải đi bệnh viên ngay!	Ви ночували на вулиці і отримали двостороннє запалення легенів. Негайно до лікарні!	外で一晩過ごしたら、 両側性の肺炎にかかってしまいました。すぐに病院に行ってください！	밖에서 노숙을 하다가 폐렴에 걸렸습니다. 당장 병원으로 가세요!	Doctor message
+71	Bạn	Друг	友人	친구	UI
+72	Xin chào, cảm ơn bạn vì đã cho tôi mượn tiền! Tôi sẽ trả lại tất cả và thêm <momomo>% nữa!	Привіт, спасибі за те, що позичив гроші! Повертаю тобі все і навіть на <momomo>% більше!	お金を貸してくれてありがとう！全額返して、その上<momomo>%分も払うよ！	안녕, 돈 빌려줘서 고마워! 이자까지 <momomo>% 쳐서 갚을게!	Friend message
+73	Chuông điện thoại đang reo, bạn có muốn bắt máy?	Лунає дзвінок, чи хочете ви узяти трубку?	電話が鳴っていますが、出ますか？	전화가 울립니다. 받으시겠습니까?	UI
 74	Yakuza	Якудза	ヤクザ	야쿠자	UI	
-75	You can't just go out of business. Unfortunately, we no longer require your services. Goodbye.	Не можна просто так вийти з бізнесу. На жаль, ми більше не потребуємо ваших послуг. Прощавайте.	勝手に商売から抜けてもらっては困りますな。残念だが、もうあんたのサービスは必要ないよ。失礼。	멋대로 일을 관두면 안 되지. 안타깝지만 더는 쓸모가 없겠군. 잘 가라고.	Yakuza mesage	
-76	News	Новини	ニュース	뉴스	UI	
-77	Famous businessman <global.myname> was found dead in his home. It is believed that he was involved in and paid for the drug business.	Відомий бізнесмен <global.myname> був знайдений убитим у себе удома. Вважається, що він був пов'язаний з наркобізнесом і поплатився за це.	有名実業家の<global.myname>氏が自宅で死亡しているのが発見されました。麻薬ビジネスに関わり、高い代償を払わされたものとみられています。	유명 사업가 <global.myname> 씨가 자택에서 변사체로 발견되었습니다. 조사에 따르면 피해자는 마약 거래에 금전적으로 연루되었다고 합니다.	News	
-78	I will not hide it, I have come to kill you. But I'm in a good mood, so I'm giving you an opportunity to buy a peaceful life.#The price - {global.vykup}.#Do you agree?	Не приховуватиму, я прийшов убити тебе. Але у мене гарний настрій, тому я даю тобі можливість купити собі мирне життя.# Я оцінив її у {global.vykup}.#Згода?	隠すつもりはない。あんたを殺しに来た。だが、今日は機嫌がいいから、あんたに平穏な暮らしを買うチャンスをやろう。値段は{global.vykup}だ。払うか？	돌려 말하진 않겠어. 난 널 죽이러 갈 거야. 하지만 마침 내가 기분이 좀 좋아서 그냥 목숨 값만 받는 선에서 그칠 수도 있겠는데.#딱 {global.vykup}만 받지.#어쩔래?	Yakuza mesage	
-79	Court	Суд	裁判所	법정	UI	
+75	Ngươi không thể tự nhiên rút khỏi tổ chức như vậy được. Không may thì ngươi không còn giá trị với nữa. Vĩnh biệt.	Не можна просто так вийти з бізнесу. На жаль, ми більше не потребуємо ваших послуг. Прощавайте.	勝手に商売から抜けてもらっては困りますな。残念だが、もうあんたのサービスは必要ないよ。失礼。	멋대로 일을 관두면 안 되지. 안타깝지만 더는 쓸모가 없겠군. 잘 가라고.	Yakuza mesage
+76	Tin tức	Новини	ニュース	뉴스	UI
+77	Doanh nhân nổi tiếng <global.myname> đã được cho là tử vong ở trong nhà riêng. Nhiều tin đồn cho rằng doanh nhân này đã có liên quan đến việc buôn bán chất cấm.	Відомий бізнесмен <global.myname> був знайдений убитим у себе удома. Вважається, що він був пов'язаний з наркобізнесом і поплатився за це.	有名実業家の<global.myname>氏が自宅で死亡しているのが発見されました。麻薬ビジネスに関わり、高い代償を払わされたものとみられています。	유명 사업가 <global.myname> 씨가 자택에서 변사체로 발견되었습니다. 조사에 따르면 피해자는 마약 거래에 금전적으로 연루되었다고 합니다.	News
+78	Tôi không giấu với anh, tôi tới đây để xử lí anh. Nhưng hôm nay tôi có tâm trạng tốt, nên tôi cho anh một cơ hội có một cuộc sống yên bình.#Cái giá là - {global.vykup}.#Anh có nhận không?	Не приховуватиму, я прийшов убити тебе. Але у мене гарний настрій, тому я даю тобі можливість купити собі мирне життя.# Я оцінив її у {global.vykup}.#Згода?	隠すつもりはない。あんたを殺しに来た。だが、今日は機嫌がいいから、あんたに平穏な暮らしを買うチャンスをやろう。値段は{global.vykup}だ。払うか？	돌려 말하진 않겠어. 난 널 죽이러 갈 거야. 하지만 마침 내가 기분이 좀 좋아서 그냥 목숨 값만 받는 선에서 그칠 수도 있겠는데.#딱 {global.vykup}만 받지.#어쩔래?	Yakuza mesage
+79	Tòa án	Суд	裁判所	법정	UI
 80	Today there was a trial in your case. You were found innocent. And as a victim of circumstances, you will only have to pay a small fine - {shtraff}.	Сьогодні відбувся суд у вашій справі. Вас визнали безневинною жертвою обставин, тому лише зобов'язують виплатити невеликий штраф - {shtraff}.	今日は裁判がありました。 あなたは無罪となりました。境遇の犠牲者として、 わずかな罰金を支払うだけで済みます - {shtraff}。	오늘 재판에서는 무죄가 선고되었습니다. 또한 사건의 피해자라는 점이 참작되어 {shtraff}의 벌금만 부과되었습니다.	UI in-game message	
 81	Today there was a trial in your case. You were found guilty and sentenced to pay a fine - {shtraff}.	Сьогодні відбувся суд у вашій справі. Вас визнали винними і засудили до виплати штрафу - {shtraff}.	今日は裁判がありました。 あなたは有罪判決を受け、 罰金の支払いを言い渡されました - {shtraff}。	오늘 재판에서는 부분적 유죄가 선고되었습니다. {shtraff}의 벌금형이 내려졌습니다.	UI in-game message	
 82	Today there was a trial in your case. You were found completely guilty, so all your money will be confiscated and you will start serving your sentence within two years.	Сьогодні відбувся суд у вашій справі. Вас визнали повністю винними, тому усі ваші гроші вилучаються, а ви вирушаєте відбувати ув'язнення на два роки.	今日は裁判がありました。 あなたは完全に有罪となり、 所持金はすべて没収され、 2年間服役することになります。	오늘 재판에서는 완전한 유죄가 선고되었습니다. 전 재산이 몰수되며 2년 이하의 징역을 살게 됩니다.	UI in-game message	
@@ -96,160 +96,160 @@
 95	You have a serious health problem! We will put you in a hospital until you are fully recovered.	У вас серйозні проблеми із здоров'ям! Ми поміщаємо вас в стаціонар до повного одужання.	あなたは深刻な健康問題を抱えています！完治するまで入院してもらいます。	건강 상태가 심각합니다! 완전히 회복될 때까지 병원에 입원해야 합니다.	Doctor message	
 96	You have been under too much stress and pressure lately. If you continue to live under stress, it will inevitably lead to health problems.	Останнім часом ви надто багато перенапружуєтеся і нервуєте. Якщо ви і далі продовжите жити в стресі це неминуче приведе до проблем із здоров'ям.	最近ストレスとプレッシャーが多すぎます。このままストレスを抱えた生活を続ければ、健康を害するのは必至です。	최근 지나친 스트레스와 압박을 받고 계신 것 같습니다. 계속 스트레스를 받는다면 결국 건강이 악화되고 말 것입니다.	Doctor message	
 97	We have noticed suspicious transactions on your account. Upon review, the illegal origin of the funds received was confirmed.##Penalty -	Ми помітили підозрілі транзакції на вашому рахунку. Після перевірки підтвердилося нелегальне джерело отриманих коштів.##Штраф -	あなたの口座で不審な取引を確認しました。調査の結果、不正な資金の流入が確認されました。	계좌에 수상한 돈이 이체되었습니다. 조사 결과 이 자금의 출처는 불법적인 것으로 나타났습니다.##페널티 -	In-game message	
-98	The government has decided to change the income tax rate. Now it is equal to <nalogtext>%.	Уряд вирішив змінити ставку податку на доходи. Тепер вона складає <nalogtext>%.	政府は所得税の税率変更を決定しました。所得税は<nalogtext>%になりました。	정부에서 소득세율을 <nalogtext>%로 변경하기로 결정했습니다.	News	
-99	You will be fined for parking in the wrong place - {shtraf}.	Штраф за стоянку в недозволеному місці - {shtraf}.	駐車違反で罰金が科されます - {shtraf}。	불법 주정차 벌금이 부과되었습니다. - {shtraf}	In-game message	
-100	Bad news	Погані новини	残念なお知らせ	나쁜 소식	UI	
-101	Your wallet has been stolen. It's a good thing there wasn't that much money - {shtraf}.	У вас вкрали гаманець. На щастя, там було не так вже багато - {shtraf}.	財布が盗まれました。財布の中に大金が入っていなくて幸いでした - {shtraf}。	지갑을 소매치기 당했습니다. 그나마 현금이 별로 없었다는 게 다행이군요. - {shtraf}	In-game message	
-102	Phone call	Телефонний дзвінок	電話	전화	UI	
-103	We offer to give you our shares at a discounted price. We want to do it without fuss, so as not to cause fears on the part of investors.#We offer you <colich> shares for {cena2} (price on the stock exchange: {cena1}).#Are you ready to come and sign all the necessary papers?	У нас є пропозиція передати вам пакет наших акцій за зниженою ціною. Ми хочемо це зробити без галасу, щоб не викликати побоювань з боку інвесторів.#Пропонуємо вам <colich> акцій за {cena2} (ціна на біржі: {cena1}).#Ви готові приїхати до нас для підписання усіх необхідних паперів?	当社の株を割引価格でお譲りします。投資家の皆様に不安を招かないよう、このことは内々に進めたいと考えています。#<colich>株を{cena2}（証券取引所での価格：{cena1}）でご提供します。#必要書類にご署名いただくために、弊社までお越しいただけますか？	귀하께 주식 할인 발행을 제안드리고자 합니다. 하지만 투자자들의 우려를 사지 않고자 조용히 진행하고 싶습니다.#<colich>주를 {cena2}에 제공하고자 합니다. (현 주가: {cena1})#계약서를 쓰시겠습니까?	a call from a partner	
-104	Mom	Мама	お母さん	엄마	UI	
-105	If the problem can be solved, there is no need to worry about it; if it cannot be solved, it is useless to worry about it.	Якщо проблему можна розв'язати, то не варто про неї турбуватися, а якщо її вирішити не можна, то турбуватися про неї марно.	解決できる問題なら悩む必要はないし、 解決できないなら悩むだけ無駄です。	해결할 수 있는 문제라면 걱정할 필요가 없고, 해결할 수 없는 문제 역시 걱정할 필요가 없다.	Random phone call message	
-106	A neighbor called and asked me to keep my keyboard clicks quiet at night.	Дзвонив сусід, просив тихіше клацати клавішами щоночі.	近所の人から電話があって「夜はキーボードのカタカタ音をもっと静かにしてほしい」と言われました。	이웃집에서 밤중에 키보드 좀 조용히 쳐 달라고 부탁했습니다.	In-game message	
-107	Anonymous call	Анонімний дзвінок	匿名の電話	익명의 전화	UI	
-108	Anonymous survey	Анонімне опитування	匿名のアンケート	익명의 조사	UI	
-109	Why do we have left and right shoes, but no left and right socks?	Чому у нас є лівий і правий черевик, але немає лівої і правої шкарпетки?	靴には左右があるのに、靴下には左右がないのはなぜだと思う？	신발은 오른발 왼발이 따로 있는데 왼발은 왜 오른발 왼발이 따로 없는 걸까?	Phrases from a friend on the phone	
-110	Concert	Концерт	コンサート	콘서트	UI	
-111	You had a great time at your favorite pop singer's concert.	Ви дуже добре відпочили на концерті улюбленою поп-виконавиці.	お気に入りのポップ歌手のコンサートでとびっきり楽しい時間を過ごしました。	좋아하는 가수의 콘서트를 재미있게 즐겼습니다.	In-game message	
+98	Chính phủ đã quyết định thay đổi mức thuế thu nhập. Hiện tại nó sẽ là <nalogtext>%.	Уряд вирішив змінити ставку податку на доходи. Тепер вона складає <nalogtext>%.	政府は所得税の税率変更を決定しました。所得税は<nalogtext>%になりました。	정부에서 소득세율을 <nalogtext>%로 변경하기로 결정했습니다.	News
+99	Bạn đã bị phạt vì đỗ xe sai quy định - {shtraf}.	Штраф за стоянку в недозволеному місці - {shtraf}.	駐車違反で罰金が科されます - {shtraf}。	불법 주정차 벌금이 부과되었습니다. - {shtraf}	In-game message
+100	Tin xấu	Погані новини	残念なお知らせ	나쁜 소식	UI
+101	Ví của bạn đã bị trộm mất! Rất may là bạn không để quá nhiều tiền ở trong - {shtraf}.	У вас вкрали гаманець. На щастя, там було не так вже багато - {shtraf}.	財布が盗まれました。財布の中に大金が入っていなくて幸いでした - {shtraf}。	지갑을 소매치기 당했습니다. 그나마 현금이 별로 없었다는 게 다행이군요. - {shtraf}	In-game message
+102	Điện thoại	Телефонний дзвінок	電話	전화	UI
+103	Chúng tôi muốn chuyển nhượng cổ phiếu với giá thấp hơn thị trường. Chúng tôi muốn làm giao dịch trong nhanh gọn để không đánh động đến các nhà đầu tư khác.#Chúng tôi để lại <colich> cổ phiếu với giá {cena2} (giá hiện trên thị trường: {cena1}).#Bạn có sẵn sàng tới và kí các giấy tờ giao dịch?	У нас є пропозиція передати вам пакет наших акцій за зниженою ціною. Ми хочемо це зробити без галасу, щоб не викликати побоювань з боку інвесторів.#Пропонуємо вам <colich> акцій за {cena2} (ціна на біржі: {cena1}).#Ви готові приїхати до нас для підписання усіх необхідних паперів?	当社の株を割引価格でお譲りします。投資家の皆様に不安を招かないよう、このことは内々に進めたいと考えています。#<colich>株を{cena2}（証券取引所での価格：{cena1}）でご提供します。#必要書類にご署名いただくために、弊社までお越しいただけますか？	귀하께 주식 할인 발행을 제안드리고자 합니다. 하지만 투자자들의 우려를 사지 않고자 조용히 진행하고 싶습니다.#<colich>주를 {cena2}에 제공하고자 합니다. (현 주가: {cena1})#계약서를 쓰시겠습니까?	a call from a partner
+104	Mẹ	Мама	お母さん	엄마	UI
+105	Nếu vấn đề có thể được giải quyết thì không có gì đáng lo lắng; nếu như vấn đề không thể giải quyết được thì lo lắng cũng vô ích.	Якщо проблему можна розв'язати, то не варто про неї турбуватися, а якщо її вирішити не можна, то турбуватися про неї марно.	解決できる問題なら悩む必要はないし、 解決できないなら悩むだけ無駄です。	해결할 수 있는 문제라면 걱정할 필요가 없고, 해결할 수 없는 문제 역시 걱정할 필요가 없다.	Random phone call message
+106	Một người hàng xóm vừa phàn nàn về tiếng ồn gõ phím vào buổi đêm muộn.	Дзвонив сусід, просив тихіше клацати клавішами щоночі.	近所の人から電話があって「夜はキーボードのカタカタ音をもっと静かにしてほしい」と言われました。	이웃집에서 밤중에 키보드 좀 조용히 쳐 달라고 부탁했습니다.	In-game message
+107	Số lạ	Анонімний дзвінок	匿名の電話	익명의 전화	UI
+108	Khảo sát lạ mặt	Анонімне опитування	匿名のアンケート	익명의 조사	UI
+109	Tại sao chúng ta lại có giày bên trái và giày bên phải nhưng không có tất bên trái và tất bên phải?	Чому у нас є лівий і правий черевик, але немає лівої і правої шкарпетки?	靴には左右があるのに、靴下には左右がないのはなぜだと思う？	신발은 오른발 왼발이 따로 있는데 왼발은 왜 오른발 왼발이 따로 없는 걸까?	Phrases from a friend on the phone
+110	Buổi hòa nhạc	Концерт	コンサート	콘서트	UI
+111	Bạn đã có một quãng thời gian rất vui vẻ tại buổi hòa nhạc.	Ви дуже добре відпочили на концерті улюбленою поп-виконавиці.	お気に入りのポップ歌手のコンサートでとびっきり楽しい時間を過ごしました。	좋아하는 가수의 콘서트를 재미있게 즐겼습니다.	In-game message
 112	Wow!	Отакої!	うわぁぁ！	와!	Ui	
-113	You have won the lottery!	Ви виграли в лотереї !	宝くじが当たりました！	복권에 당첨됐습니다!	In-game message	
-114	Letter	Лист	手紙	편지	UI	
-115	Your distant relative has died. According to their will you have received {shtraf}.	У вас помер далекий родич. Згідно заповіту ви отримали {shtraf}.	遠い親戚が亡くなりました。遺言により、あなたは{shtraf}を受け取ります。	먼 친척이 세상을 떠났다고 합니다. 유언장에 따라 {shtraf}을 상속받았습니다.	In-game message from letter	
-116	We regret to inform you that your uncle has passed away. He left you {shtraf}.	Зі скорботою повідомляємо, що у вас помер дядько. Він заповідав вам {shtraf}.	残念ながら、あなたの叔父が亡くなりました。あなたに {shtraf}が遺贈されました。	삼촌이 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter	
-117	We regret to inform you that your great-grandfather has passed away. According to his will, you receive {shtraf}.	Зі скорботою повідомляємо, що у вас помер прапрадідусь. Згідно із заповітом, ви отримуєте {shtraf}.	残念ながら、あなたの曾祖父が亡くなりました。遺言により、 あなたは{shtraf}を受け取ります。	증조부께서 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter	
-118	We regret to inform you that your great-grandmother has passed away. According to her will, you will receive {shtraf}.	Зі скорботою повідомляємо, що у вас померла прапрабабуся. Згідно із заповітом, ви отримуєте {shtraf}.	残念ながら、あなたの曾祖母が亡くなりました。 遺言により、あなたは{shtraf}を受け取ります。	증조모께서 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter	
-119	I'm paying back my old debt!##Kazuhara.  {shtraf}	Повертаю свій старий борг!##Казухара. {shtraf}	「昔の借金を返します！」##カズハラ。{shtraf}	옛날에 빌린 돈 갚는다!##카즈하라가. {shtraf}	In-game message from letter	
-120	According to a nationwide poll, <cats> were voted the cutest!	Згідно зі всенародним голосуванням, наймилішими тваринами визнані <cats>!	全国アンケートで最もかわいい動物には<cats>が選ばれました！	전국에서 설문 조사를 진행한 결과, <cats>가 가장 귀여운 동물로 꼽혔습니다!	News	
-121	kitties	кошенята	ネコ	고양이	<cats> from line 121	
-122	doggies	цуцики	イヌ	개	<cats> from line 121	
-123	parrots	папужки	オウム	앵무새	<cats> from line 121	
-124	pandas	пандочки	パンダ	팬더	<cats> from line 121	
-125	koalas	коали	コアラ	코알라	<cats> from line 121	
-126	fennec foxes	фенеки	フェネック	사막여우	<cats> from line 121	
-127	seals	тюленята	アザラシ	물개	<cats> from line 121	
-128	alpacas	альпаки	アルパカ	알파카	<cats> from line 121	
-129	Temple	Храм	寺	신사	UI	
-130	You prayed in the temple. You felt at peace.	Ви помолилися в храмі та відчули спокій.	お寺でお祈りしたので、穏やかな気持ちになりました。	신사에서 기도를 올리고 마음의 평안을 찾았습니다.	In-game message	
-131	Mailman	Листоноша	郵便配達員	집배원	UI	
-132	You have received the invoice for your video game order -	Вам прийшов рахунок за замовлені відеоігри -	注文したビデオゲームの請求書が届きました。	주문했던 비디오 게임의 청구서를 받았습니다.	In-game message	
-133	Plumber	Сантехнік	配管工	배관공	UI	
-134	It seems that you have a leak here. Repair will cost {shtraf}.	Здається, у вас тут теча. Ремонт коштуватиме {shtraf}.	水道管に水漏れがあるようです。 修理に{shtraf}かかります。	집에 누수가 발생했습니다. 수리비는 {shtraf}입니다.	In-game message	
-135	Update	Оновлення	アップデート	업데이트	UI	
-136	For your PC to work, you need new hardware. This will cost you in {shtraf}.	Час оновлювати комп'ютер! Це обійдеться вам в {shtraf}.	パソコンを使うには新しいハードウェアが必要です。これには{shtraf}かかります。	PC로 일을 하려면 새 컴퓨터가 필요합니다. 비용은 {shtraf}입니다.	In-game message	
-137	Surprise	Несподіванка	サプライズ	뜻밖의 횡재	UI	
-138	You found a {shtraf} bill on the ground.	Ви знайшли на землі купюру в {shtraf} єн!	地面に{shtraf}円札が落ちているのを見つけました。	땅에서 {shtraf} 지폐를 주웠습니다.	In-game message	
-139	Problem	Проблема	問題	문제	UI	
-140	It seems that your computer is broken. Repairing it will cost {shtraf}.	Здається, ваш комп'ютер зламався. Ремонт коштуватиме {shtraf}.	パソコンが壊れているようです。修理には{shtraf}かかります。	컴퓨터가 고장 났습니다. 수리비는 {shtraf}입니다.	In-game message	
-141	Weekend	Вихідний	週末	주말	UI	
-142	Miracle	Диво	奇跡	기적	UI	
-143	The company <companynm> releases a successful product that makes a good profit. The company's shares rise sharply on the stock market.	Компанія <companynm> випускає успішний продукт, який приносить високий прибуток. Це піднімає вартість акцій компанії на біржі.	<companynm>社はヒット製品を発売し、利益を上げています。これにより、 同社の株価は株式市場で急上昇しています。	<companynm> 사에서 내놓은 신제품이 성공적인 수익을 거두었습니다. 덕분에 주가가 가파른 상승세를 보여 주고 있습니다.	News	
-144	Part of the board of directors of <companynm> came up with a clever plan to trick their director. They issued new shares with a lower price and ownership ratio for all shareholders.	Частина ради директорів компанії <companynm> провертає хитру аферу в обхід директора, і випускає нові акції, зменшивши їх ціну і частку власності у всіх акціонерів.	<companynm>の取締役会の一部が、取締役をだます巧妙な計画を思いつきました。全株主の株価と持ち株比率を引き下げる新株を発行しました。	<companynm> 사의 이사회에서 교묘한 계획으로 이사들을 속여 신주를 발행하면서 전체 주주들의 주가와 지분율을 낮추었습니다.	News	
-145	Breaking news!	Термінові новини!	速報！	속보입니다!	UI	
-146	One of the major shareholders of the company <companynm> decides to sell his shares, thereby driving down their price.	Один з великих акціонерів компанії <companynm> вирішує продати свої акції, чим обвалює їх курс.	<companynm>の大株主の一人が持ち株売却を決定したため、株価が下落しました。	<companynm> 사의 대주주 한 명이 주식을 매각하면서 주가가 하락하고 있습니다.	News	
-147	You are under arrest for aiding and abetting drug trafficking in <companname>.	Ви заарештовані за пособництво торгівлі наркотиками в компанії <companname>.	あなたは<compa>での麻薬密売幇助の容疑で逮捕されました。	귀하는 <companname>사의 마약 밀매를 조력 및 방조한 혐의로 체포되었습니다.	In-game message	
-148	Police liquidated an illegal company <companname>. Police are investigating the shareholders involved in these activities.	Поліцією була ліквідована нелегальна компанія <companname>. Поліція перевіряє причетність до цієї діяльності усіх акціонерів.	警察は違法会社<companname>を清算しました。##警察はこれらの活動に関与した株主を調査しています。	경찰에서 <companname> 사를 불법 혐의로 청산했습니다. 또한 이 행위에 연루된 주주들을 수사 중입니다.	In-game message	
-149	Good afternoon. We are investigating a drug cartel. We have a lot of evidence against the company <companname>, of which you are a co-owner. Expect a subpoena. I'll see you later. ##Maybe you should give them a bribe?	Добридень. Ми ведемо розслідування з приводу злочинного наркокартеля. У нас є безліч доказів проти компанії <companname>, співвласником якої є ви. Чекайте повістки до суду. До зустрічі. ##Може запропонувати їм хабар?	こんにちは。私たちは麻薬カルテルを捜査しています。あなたが共同経営者となっている会社<companname>に対して多くの証拠を持っています。召喚状が届くのを待ってください。それではまたお会いしましょう。##賄賂を渡したほうがよくないですか？	안녕하세요. 마약 수사반입니다. 귀하가 공동 소유주인 <companname> 사를 수사하면서 물증을 다수 확보한 상태입니다. 곧 영장이 발부될 테니 협조 부탁 드립니다. ##어쩌면 상대를 매수할 수 있지 않을까요?	Police	
-150	You don't have enough money, so you had to go into debt. Keep in mind that the debt will only increase over time, so pay it off quickly or take out a loan. If you do not pay your debts, your property will be auctioned off.	Вам бракує грошей, тому довелося влізти у борги. Врахуйте, що борг тільки збільшуватиметься з часом, тому поспішіть з його виплатою, або візьміть кредит. Якщо ви не виплачуватимете борг - ваше майно пустять з молотка.	お金が足りないから借金をせざるを得なかったのは分かります。借金は時間が経てば経つほど増えていくものだと心得て、早く返済するかローンを組むようにしましょう。借金を返済しないと資産が競売にかけられます。	돈이 충분하지 않아 부채 상태가 되었습니다. 부채는 시간이 지날수록 점점 늘어나므로 빨리 상환하거나 대출을 받아야 합니다. 부채를 상환하지 않으면 재산이 압류되어 경매로 넘어갑니다.	UI	
-151	We are sorry, but you already have an unpaid loan.	Шкода, але у вас вже є неоплачений кредит.	申し訳ありませんが、あなたにはすでに未払いのローンがあります。	안타깝지만 아직 상환되지 않은 대출이 있습니다.	Bank employer say it	
+113	Bạn đã thắng sổ số!	Ви виграли в лотереї !	宝くじが当たりました！	복권에 당첨됐습니다!	In-game message
+114	Thư	Лист	手紙	편지	UI
+115	Họ hàng xa của bạn đã mất, theo như di chúc bạn được thừa hưởng {shtraf}.	У вас помер далекий родич. Згідно заповіту ви отримали {shtraf}.	遠い親戚が亡くなりました。遺言により、あなたは{shtraf}を受け取ります。	먼 친척이 세상을 떠났다고 합니다. 유언장에 따라 {shtraf}을 상속받았습니다.	In-game message from letter
+116	Chúng tôi rất tiếc phải báo tin buồn rằng chú của bạn đã mất. Chú bạn đã để lại cho bạn {shtraf}.	Зі скорботою повідомляємо, що у вас помер дядько. Він заповідав вам {shtraf}.	残念ながら、あなたの叔父が亡くなりました。あなたに {shtraf}が遺贈されました。	삼촌이 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter
+117	Chúng tôi rất tiếc phải báo tin buồn rằng ông cố của bạn đã mất. Và theo như di chúc, ông ấy đã đề lại cho bạn {shtraf}.	Зі скорботою повідомляємо, що у вас помер прапрадідусь. Згідно із заповітом, ви отримуєте {shtraf}.	残念ながら、あなたの曾祖父が亡くなりました。遺言により、 あなたは{shtraf}を受け取ります。	증조부께서 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter
+118	Chúng tôi rất tiếc phải báo tin buồn cho bạn rằng bà cố của bạn đã mất. Và theo như di chúc, bà ấy đã để lại cho bạn {shtraf}.	Зі скорботою повідомляємо, що у вас померла прапрабабуся. Згідно із заповітом, ви отримуєте {shtraf}.	残念ながら、あなたの曾祖母が亡くなりました。 遺言により、あなたは{shtraf}を受け取ります。	증조모께서 세상을 떠났다는 유감스러운 소식입니다. {shtraf}의 유산을 남겨 주셨습니다.	In-game message from letter
+119	Tôi đang trở lại khoản nợ cũ!##Kazuhara.  {shtraf}	Повертаю свій старий борг!##Казухара. {shtraf}	「昔の借金を返します！」##カズハラ。{shtraf}	옛날에 빌린 돈 갚는다!##카즈하라가. {shtraf}	In-game message from letter
+120	Theo như cuộc bầu chọn quốc gia, <cats> được bầu là dễ thương nhất!	Згідно зі всенародним голосуванням, наймилішими тваринами визнані <cats>!	全国アンケートで最もかわいい動物には<cats>が選ばれました！	전국에서 설문 조사를 진행한 결과, <cats>가 가장 귀여운 동물로 꼽혔습니다!	News
+121	mèo con	кошенята	ネコ	고양이	<cats> from line 121
+122	chó con	цуцики	イヌ	개	<cats> from line 121
+123	vẹt con	папужки	オウム	앵무새	<cats> from line 121
+124	gấu trúc	пандочки	パンダ	팬더	<cats> from line 121
+125	koala	коали	コアラ	코알라	<cats> from line 121
+126	cáo sa mạc	фенеки	フェネック	사막여우	<cats> from line 121
+127	hải cẩu	тюленята	アザラシ	물개	<cats> from line 121
+128	lạc đà Alpacas	альпаки	アルパカ	알파카	<cats> from line 121
+129	Đền thờ	Храм	寺	신사	UI
+130	Bạn đã đến đền thờ cầu nguyện. Bạn đã cảm thấy tịnh tâm hơn	Ви помолилися в храмі та відчули спокій.	お寺でお祈りしたので、穏やかな気持ちになりました。	신사에서 기도를 올리고 마음의 평안을 찾았습니다.	In-game message
+131	Người đưa thư	Листоноша	郵便配達員	집배원	UI
+132	Bạn đã trả tiền hóa đơn cho trò chơi điện tử mới -	Вам прийшов рахунок за замовлені відеоігри -	注文したビデオゲームの請求書が届きました。	주문했던 비디오 게임의 청구서를 받았습니다.	In-game message
+133	Thợ sửa ống nước	Сантехнік	配管工	배관공	UI
+134	Có vẻ như bạn bị rò ống nước. Chi phí sửa chữa sẽ là {shtraf}.	Здається, у вас тут теча. Ремонт коштуватиме {shtraf}.	水道管に水漏れがあるようです。 修理に{shtraf}かかります。	집에 누수가 발생했습니다. 수리비는 {shtraf}입니다.	In-game message
+135	Cập nhật	Оновлення	アップデート	업데이트	UI
+136	Để máy tính tiếp tục chạy, bạn cần phần cứng mới và nó sẽ tiêu hao {shtraf}.	Час оновлювати комп'ютер! Це обійдеться вам в {shtraf}.	パソコンを使うには新しいハードウェアが必要です。これには{shtraf}かかります。	PC로 일을 하려면 새 컴퓨터가 필요합니다. 비용은 {shtraf}입니다.	In-game message
+137	Bất ngờ	Несподіванка	サプライズ	뜻밖의 횡재	UI
+138	Bạn nhặt được tờ {shtraf} dưới đất.	Ви знайшли на землі купюру в {shtraf} єн!	地面に{shtraf}円札が落ちているのを見つけました。	땅에서 {shtraf} 지폐를 주웠습니다.	In-game message
+139	Vấn đề	Проблема	問題	문제	UI
+140	Có vẻ như máy tính của bạn đã hỏng. Bạn đã sửa nó với giá {shtraf}.	Здається, ваш комп'ютер зламався. Ремонт коштуватиме {shtraf}.	パソコンが壊れているようです。修理には{shtraf}かかります。	컴퓨터가 고장 났습니다. 수리비는 {shtraf}입니다.	In-game message
+141	Cuối tuần	Вихідний	週末	주말	UI
+142	Điều kì diệu	Диво	奇跡	기적	UI
+143	Công ty <companynm> đã tung ra một sản phẩm đột phá. Cổ phiếu của công ty đã tăng chóng mặt.	Компанія <companynm> випускає успішний продукт, який приносить високий прибуток. Це піднімає вартість акцій компанії на біржі.	<companynm>社はヒット製品を発売し、利益を上げています。これにより、 同社の株価は株式市場で急上昇しています。	<companynm> 사에서 내놓은 신제품이 성공적인 수익을 거두었습니다. 덕분에 주가가 가파른 상승세를 보여 주고 있습니다.	News
+144	Một phần trong tổ quản lí của công ty <companynm> đã nghĩ ra một kế hay để tạo ra các cổ phiếu mới với giá rẻ.	Частина ради директорів компанії <companynm> провертає хитру аферу в обхід директора, і випускає нові акції, зменшивши їх ціну і частку власності у всіх акціонерів.	<companynm>の取締役会の一部が、取締役をだます巧妙な計画を思いつきました。全株主の株価と持ち株比率を引き下げる新株を発行しました。	<companynm> 사의 이사회에서 교묘한 계획으로 이사들을 속여 신주를 발행하면서 전체 주주들의 주가와 지분율을 낮추었습니다.	News
+145	Tin chấn động!	Термінові новини!	速報！	속보입니다!	UI
+146	Một trong những cổ đông lớn của công ty <companynm> đã quyết định bán cổ phần của mình, hậu quả là giá cổ phiếu sẽ giảm sút.	Один з великих акціонерів компанії <companynm> вирішує продати свої акції, чим обвалює їх курс.	<companynm>の大株主の一人が持ち株売却を決定したため、株価が下落しました。	<companynm> 사의 대주주 한 명이 주식을 매각하면서 주가가 하락하고 있습니다.	News
+147	Bạn đã bị bắt giam vì tội tàng trữ và vận chuyển chất cấm thuộc công ty <companname>.	Ви заарештовані за пособництво торгівлі наркотиками в компанії <companname>.	あなたは<compa>での麻薬密売幇助の容疑で逮捕されました。	귀하는 <companname>사의 마약 밀매를 조력 및 방조한 혐의로 체포되었습니다.	In-game message
+148	Cảnh sát đã giải ngân công ty <companname>. Cảnh sát đang tiếp tục điều tra các cổ đông liên quan đến công ty này.	Поліцією була ліквідована нелегальна компанія <companname>. Поліція перевіряє причетність до цієї діяльності усіх акціонерів.	警察は違法会社<companname>を清算しました。##警察はこれらの活動に関与した株主を調査しています。	경찰에서 <companname> 사를 불법 혐의로 청산했습니다. 또한 이 행위에 연루된 주주들을 수사 중입니다.	In-game message
+149	Chào anh, chúng tôi đang điều tra một bang đảng buôn chất cấm. Chúng tôi có rất nhiều chứng cứ chống lại công ty <companname>, trong đó bạn là người đồng sáng lập. Có thể sẽ có lệnh hầu tòa. Chúng tôi sẽ gặp lại anh sau. ##Có lẽ bạn nên hối lộ?	Добридень. Ми ведемо розслідування з приводу злочинного наркокартеля. У нас є безліч доказів проти компанії <companname>, співвласником якої є ви. Чекайте повістки до суду. До зустрічі. ##Може запропонувати їм хабар?	こんにちは。私たちは麻薬カルテルを捜査しています。あなたが共同経営者となっている会社<companname>に対して多くの証拠を持っています。召喚状が届くのを待ってください。それではまたお会いしましょう。##賄賂を渡したほうがよくないですか？	안녕하세요. 마약 수사반입니다. 귀하가 공동 소유주인 <companname> 사를 수사하면서 물증을 다수 확보한 상태입니다. 곧 영장이 발부될 테니 협조 부탁 드립니다. ##어쩌면 상대를 매수할 수 있지 않을까요?	Police
+150	Bạn không có đủ tiền nên bạn đã rơi vào nợ nần. Hãy nhớ rằng các khoản nợ chỉ tăng theo thời gian, nên hãy trả nhanh hoặc vay nợ mới. Nếu bạn không trả được nợ, tài sản của bạn sẽ bị bán đấu giá.	Вам бракує грошей, тому довелося влізти у борги. Врахуйте, що борг тільки збільшуватиметься з часом, тому поспішіть з його виплатою, або візьміть кредит. Якщо ви не виплачуватимете борг - ваше майно пустять з молотка.	お金が足りないから借金をせざるを得なかったのは分かります。借金は時間が経てば経つほど増えていくものだと心得て、早く返済するかローンを組むようにしましょう。借金を返済しないと資産が競売にかけられます。	돈이 충분하지 않아 부채 상태가 되었습니다. 부채는 시간이 지날수록 점점 늘어나므로 빨리 상환하거나 대출을 받아야 합니다. 부채를 상환하지 않으면 재산이 압류되어 경매로 넘어갑니다.	UI
+151	Chúng tôi xin lỗi, nhưng bạn đang có một khoản nợ chưa trả.	Шкода, але у вас вже є неоплачений кредит.	申し訳ありませんが、あなたにはすでに未払いのローンがあります。	안타깝지만 아직 상환되지 않은 대출이 있습니다.	Bank employer say it
 152	Yoshiro	Йоширо	ヨシロウ	요시로	UI name	
-153	Hey, it's Yoshiro! I heard a rumor that a company is about to go up in value, which means its stock is about to get more expensive. I can sell you this information for {global.v}. Do we have a deal?	Привіт, це Йоширо! Тут ходять чутки, що одна компанія скоро підніметься в ціні і її акції стануть дорожчі. Я можу з тобою поділитися інформацією за {global.v}. Згода?	どうも、ヨシロウです。ある会社の企業価値が上がりそうで、その会社の株価も高くなるという噂があります。この情報を{global.v}で売ってあげますが、どうです？取引しますか？	안녕하세요, 요시로입니다! 지금 어떤 회사의 기업가치가 절상되면서 주가 상승이 예정되어 있다는 정보가 입수됐어요. {global.v}에 이 정보를 팔게요. 어때요?	Message	
-154	Hi, this is Yoshiro! I heard that you have money problems. Do you want some help?	Привіт, це Йоширо! Чув у тебе проблеми з грошима. Допомогти?	どうも、ヨシロウです。お金の問題を抱えているそうですね。お手伝いしましょうか？	안녕하세요, 요시로입니다! 자금 문제를 겪고 계시다던데. 좀 도와드려요?	Message	
-155	Somebody got the wrong number.	Помилилися номером.	番号違いです。	잘못 걸린 전화다.	In-game message	
-156	The company <comomo> will be successful! I am sure you will not regret it!	Компанію <comomo> чекає успіх! Я упевнений ти не пошкодуєш!	<comomo>社は儲かりますよ。きっと後悔はしないと思いますよ。	<comomo> 사가 실적이 좋대요! 후회하지 않으실 거예요!	Message	
-157	No problem! I have already transferred a modest amount to your account. I hope it helps. I ask for nothing in return!	Нема питань! Я вже перерахував на твій рахунок невиличку суму. Сподіваюся це допоможе. Нічого натомість не прошу!	大丈夫です！すでにあなたの口座に少額ですが振り込みました。お役に立てれば幸いです。見返りは求めません！	걱정 마세요! 이미 계좌에 넉넉한 금액을 넣어 두었습니다. 도움이 되길 바라요. 보답이요? 아이, 괜찮아요!	Message	
-158	It is a pleasure to do business with you!	З вами дуже приємно мати справу!	あなたと取引できて光栄です！	즐거운 거래였습니다!	Message	
+153	Hey, Yoshiro đây! tôi đã đánh hơi được một tin đồn rằng có một công ty sẽ có vốn hóa tăng, có nghĩa giá cổ phiếu ấy sẽ đi lên. Tôi có thể bán cho bạn thông tin này với giá {global.v}. Bạn nhận giao kèo này chứ?	Привіт, це Йоширо! Тут ходять чутки, що одна компанія скоро підніметься в ціні і її акції стануть дорожчі. Я можу з тобою поділитися інформацією за {global.v}. Згода?	どうも、ヨシロウです。ある会社の企業価値が上がりそうで、その会社の株価も高くなるという噂があります。この情報を{global.v}で売ってあげますが、どうです？取引しますか？	안녕하세요, 요시로입니다! 지금 어떤 회사의 기업가치가 절상되면서 주가 상승이 예정되어 있다는 정보가 입수됐어요. {global.v}에 이 정보를 팔게요. 어때요?	Message
+154	Chào, Yoshiro đây! Tôi nghe nói bạn có vấn đề về tài chính. Bạn có muốn sự giúp đỡ từ tôi?	Привіт, це Йоширо! Чув у тебе проблеми з грошима. Допомогти?	どうも、ヨシロウです。お金の問題を抱えているそうですね。お手伝いしましょうか？	안녕하세요, 요시로입니다! 자금 문제를 겪고 계시다던데. 좀 도와드려요?	Message
+155	Chỉ là ai đó gọi nhầm số.	Помилилися номером.	番号違いです。	잘못 걸린 전화다.	In-game message
+156	Công ty <comomo> sẽ thành công! Tôi tin rằng bạn sẽ không hối hận!	Компанію <comomo> чекає успіх! Я упевнений ти не пошкодуєш!	<comomo>社は儲かりますよ。きっと後悔はしないと思いますよ。	<comomo> 사가 실적이 좋대요! 후회하지 않으실 거예요!	Message
+157	Không sao! Tôi đã chuyển một chút tiền vào tài khoản của bạn. Mong rằng điều này sẽ giúp bạn. Bạn không cần phải trả tôi đâu!	Нема питань! Я вже перерахував на твій рахунок невиличку суму. Сподіваюся це допоможе. Нічого натомість не прошу!	大丈夫です！すでにあなたの口座に少額ですが振り込みました。お役に立てれば幸いです。見返りは求めません！	걱정 마세요! 이미 계좌에 넉넉한 금액을 넣어 두었습니다. 도움이 되길 바라요. 보답이요? 아이, 괜찮아요!	Message
+158	Rất hân hạnh khi được làm việc với bạn!	З вами дуже приємно мати справу!	あなたと取引できて光栄です！	즐거운 거래였습니다!	Message
 159	Kazuhara	Казухара	カズハラ	카즈하라	Name	
-160	Hey, it's <surname>! Want to go to the racetrack?	Привіт, це <surname>! Не бажаєш сходити на іподром?	どうも、<surname>です。競馬場に行ってみたいと思いませんか？	안녕하세요, <surname>입니다! 경마장 가실래요?	Message	
-161	That's great!	Чудово!	それはよかった！	멋지네요!	Message	
-162	Stranger	Незнайомець	見知らぬ人	낯선 사람	Ui	
-163	I am sure you will not regret it! Millions are waiting for us!	Я упевнений, ти не пошкодуєш! Нас чекають грошики!	決して後悔しませんよ。何百万が私たちを待っています！	후회하지 않으실 거예요! 떼돈 벌러 가자고요!	A line from a stranger	
-164	Outrageous! It will be added to your case. Wait for the day of trial.	Що ви коїте?! Це буде приписано у вашу справу. Чекайте суду.	何てことだ！これはあなたの罪状に加えられますよ。裁判の日を待つんですな。	세상에! 이것도 선생님 죄목으로 추가될 겁니다. 재판날만 기다려야겠군요.	Police	
-165	Okay, you will not be disturbed, for now. But I can't promise anything. Good luck to you.	Гаразд, поки що вас не чіпатимуть. Але я не можу нічого обіцяти. Щасти.	いいでしょう、今のところは邪魔はしません。でも、何も約束できません。 頑張ってください。	알겠어요, 그러면 지금은 귀찮게 하지 않겠습니다. 하지만 아무 보장도 못 드려요. 행운을 빕니다.	Police	
-166	Strange voice	Незнайомий голос	奇妙な声	낯선 목소리	UI	
-167	Are you seriously just selling your share and going out of business? That's not gonna work. If you don't buy back your stake in <comomo> soon, you're in serious trouble. You've been warned.	Ти серйозно вирішив просто продати свою частку і піти з бізнесу? Хай би не так! Якщо найближчим часом ти не придбаєш знову свою частку в <comomo> назад то на тебе чекають неприємності. Тебе попередили.	ただ株を売って商売から抜けるって本気かい？そうはいかんぞ。 すぐに<comomo>の株を買い戻さないと、あんた大変なことになるよ。忠告したはずだ。	그렇게 싹 다 팔고 발 뺄 수 있을 줄 알았나? 어림도 없는 소리를. <comomo>일 내로 지분을 다시 매입하지 않으면 골치 아프게 될 줄 알아. 난 경고했어.	Yakuza mesage	
-168	I'm glad we have an understanding!	Я радий, що ми знайшли спільну мову!	おお、分かってくれたか！	서로 이해하게 되어 참 좋구만!	Yakuza mesage	
-169	We are glad that you came to your senses and made the right decision! I am sure we will do great business with you!	Ми раді, що ви отямилися і прийняли вірне рішення! Упевнений, ми з вами ще відмінно попрацюємо!	あんたが正気に戻ってまともな判断をしてくれて良かったよ。あんたとはきっといい取引ができるはずだ。	그래, 정신 차리고 제대로 된 결정을 내려서 다행이야! 앞으로도 좋은 동업 해 보자고!	Yakuza mesage	
-170	Excellent, we will be waiting for you to arrive!	Чудово! Будемо вас чекати!	それはよかった、到着をお待ちしています！	좋습니다, 도착하실 때까지 기다리지요!	Phrase when a player agrees to go to a meeting	
-171	Deal	Угода	取引	거래	UI	
-172	You come to the right station, but the train is leaving right in front of your eyes. You will have to wait for the next train, which will be in an hour.	Ви прибігаєте на потрібну станцію, проте відповідний вам поїзд їде у вас на очках. Доведеться чекати наступного, а він буде тільки через годину.	駅には間違えずに来たのに、目の前で電車が出発してしまいます。1時間後の次の電車を待たなければなりません。	헐레벌떡 역에 도착했지만 코 앞에서 기차를 놓쳤습니다. 다음 열차는 한 시간 후에나 오는군요.	In-game message	
-173	Unfortunately, you were late for the deal and the stocks were bought back by another businessman.	На жаль, ви запізнилися на угоду і акції викупив інший бізнесмен.	残念なことに、あなたは取引に遅れ、株は別の実業家に買い戻されてしまいました。	안타깝게도 거래에 늦는 바람에 주식은 다른 투자자가 매입해 갔습니다.	In-game message	
-174	You waited for the train to arrive and then arrived at the deal. Although you were late, the deal was a success. Congratulations!	Ви дочекалися поїзда і приїхали на угоду. Незважаючи на запізнення, угода пройшла успішно. Вітаємо!	電車が来るのを待って、取引の場所に着きました。遅刻したにもかかわらず、 取引は成功しました。おめでとうございます！	다음 기차를 타고 거래 장소에 도착했습니다. 약속에는 늦었지만 거래는 성공적이었습니다. 축하합니다!	In-game message	
-175	You get on the train and go to the place of the arranged deal.	Ви сіли на поїзд і прямуєте в місце призначеної угоди.	電車に乗って、取引の場所に向かいます。	기차를 타고 약속 장소로 가서 거래를 체결했습니다.	In-game message	
-176	Accident on the railway tracks has happened. Your train has stopped and all traffic is blocked.	Аварія на шляхах. Ваш потяг зупиняється, а весь рух заблоковано.	線路で事故が起きました。電車は止まり、すべての交通が遮断されてしまいました。	철도에서 사고가 났습니다. 타고 있던 기차는 멈추고 모든 교통이 막히고 말았습니다.	In-game message	
-177	Despite the delay, the deal was a success. Congratulations!	Незважаючи на запізнення, угода пройшла успішно. Вітаємо!	遅刻したにもかかわらず、取引は成功しました。おめでとうございます！	늦기는 했지만 거래는 성공적이었습니다. 축하합니다!	In-game message	
-178	The deal was a success. Congratulations!	Угода пройшла успішно. Вітаємо!	取引は成功しました。おめでとうございます！	거래는 성공적이었습니다. 축하합니다!	In-game message	
-179	You get in your car and drive to the place of the deal.	Ви сідаєте в свою машину і відправляєтеся на місце угоди.	車に乗って、取引の場所に向かいます。	자신의 차를 타고 약속 장소로 향했습니다.	In-game message	
-180	Traffic is heavy today, you will be very late.	На дорогах жахливі затори тому ви спізнюєтеся.	今日は渋滞がひどいので、かなり遅刻するでしょう。	오늘은 길이 꽉 막히네요. 이거 굉장히 늦겠습니다.	In-game message	
-181	Congratulations on your purchase!	Вітаємо Вас із покупкою!	購入おめでとうございます！	구매 축하드립니다!	In-game message	
-182	Sold!	Продано!	売れました！	판매!	In-game message	
-183	Hi, this is <surname>! Would you like to relax? My friends and I are going to the bar together.	Привіт, це <surname>! Чи не бажаєш відпочити? Ми тут з друзями збираємося до бару.	どうも、<surname>です。たまには羽を伸ばさないか？友達と一緒にバーに行くところなんだ。	여보세요, <surname>인데요! 기분이나 내러 갈래요? 오늘 친구들이랑 같이 술 마시러 갈 건데.	a phone call from a friend	
+160	Hey, <surname> đây! Muốn đi xem đua ngựa không?	Привіт, це <surname>! Не бажаєш сходити на іподром?	どうも、<surname>です。競馬場に行ってみたいと思いませんか？	안녕하세요, <surname>입니다! 경마장 가실래요?	Message
+161	Điều đó thật tuyệt!	Чудово!	それはよかった！	멋지네요!	Message
+162	Người lạ	Незнайомець	見知らぬ人	낯선 사람	Ui
+163	Tôi chắc chắn anh sẽ không hối hận! Hàng triệu yên đang chờ đợi chúng ta!	Я упевнений, ти не пошкодуєш! Нас чекають грошики!	決して後悔しませんよ。何百万が私たちを待っています！	후회하지 않으실 거예요! 떼돈 벌러 가자고요!	A line from a stranger
+164	Thật kinh khủng! Bằng chứng này sẽ được ghi lại chờ đợi ngày xét xử.	Що ви коїте?! Це буде приписано у вашу справу. Чекайте суду.	何てことだ！これはあなたの罪状に加えられますよ。裁判の日を待つんですな。	세상에! 이것도 선생님 죄목으로 추가될 겁니다. 재판날만 기다려야겠군요.	Police
+165	Okay, chúng tôi sẽ không làm phiền bạn, tạm thời thôi. Chúng tôi không thể hứa hẹn điều gì. Chúc may mắn.	Гаразд, поки що вас не чіпатимуть. Але я не можу нічого обіцяти. Щасти.	いいでしょう、今のところは邪魔はしません。でも、何も約束できません。 頑張ってください。	알겠어요, 그러면 지금은 귀찮게 하지 않겠습니다. 하지만 아무 보장도 못 드려요. 행운을 빕니다.	Police
+166	Giọng người lạ	Незнайомий голос	奇妙な声	낯선 목소리	UI
+167	Ngươi thực sự tính bán cổ phiếu và rút khỏi kèo làm ăn sao? Điều đó không xảy ra đâu. Nếu ngươi không mua lại phần của mình bao gồm <comomo> nhanh chóng, ngươi sẽ gặp rắc rối lớn đấy. Ngươi đã được cảnh cáo.	Ти серйозно вирішив просто продати свою частку і піти з бізнесу? Хай би не так! Якщо найближчим часом ти не придбаєш знову свою частку в <comomo> назад то на тебе чекають неприємності. Тебе попередили.	ただ株を売って商売から抜けるって本気かい？そうはいかんぞ。 すぐに<comomo>の株を買い戻さないと、あんた大変なことになるよ。忠告したはずだ。	그렇게 싹 다 팔고 발 뺄 수 있을 줄 알았나? 어림도 없는 소리를. <comomo>일 내로 지분을 다시 매입하지 않으면 골치 아프게 될 줄 알아. 난 경고했어.	Yakuza mesage
+168	Tôi rất mừng vì chúng ta đã cùng quan điểm!	Я радий, що ми знайшли спільну мову!	おお、分かってくれたか！	서로 이해하게 되어 참 좋구만!	Yakuza mesage
+169	Chúng tôi rất mừng vì bạn đã tỉnh táo và đưa ra quyết định sáng suốt! Chúng tôi rất mong chờ những cuộc làm ăn sắp tới cùng với bạn!	Ми раді, що ви отямилися і прийняли вірне рішення! Упевнений, ми з вами ще відмінно попрацюємо!	あんたが正気に戻ってまともな判断をしてくれて良かったよ。あんたとはきっといい取引ができるはずだ。	그래, 정신 차리고 제대로 된 결정을 내려서 다행이야! 앞으로도 좋은 동업 해 보자고!	Yakuza mesage
+170	Tuyệt vời, chúng tôi sẽ đợi bạn tới!	Чудово! Будемо вас чекати!	それはよかった、到着をお待ちしています！	좋습니다, 도착하실 때까지 기다리지요!	Phrase when a player agrees to go to a meeting
+171	Quất	Угода	取引	거래	UI
+172	Bạn đã đến đúng trạm, nhưng mà tàu đã bắt đầu lăn bánh trước mắt bạn. bạn sẽ phải đợi cho chuyến tàu tiếp theo trong tầm một tiếng nữa.	Ви прибігаєте на потрібну станцію, проте відповідний вам поїзд їде у вас на очках. Доведеться чекати наступного, а він буде тільки через годину.	駅には間違えずに来たのに、目の前で電車が出発してしまいます。1時間後の次の電車を待たなければなりません。	헐레벌떡 역에 도착했지만 코 앞에서 기차를 놓쳤습니다. 다음 열차는 한 시간 후에나 오는군요.	In-game message
+173	Thật không may, bạn đã đi muộn tới điểm hẹn và có một doanh nhân khác đã chốt kèo trước bạn.	На жаль, ви запізнилися на угоду і акції викупив інший бізнесмен.	残念なことに、あなたは取引に遅れ、株は別の実業家に買い戻されてしまいました。	안타깝게도 거래에 늦는 바람에 주식은 다른 투자자가 매입해 갔습니다.	In-game message
+174	Bạn đã đợi chuyến tàu tiếp theo và tiếp tục tới điểm hẹn. Mặc dù bạn đến muộn, nhưng mà cuộc trao đổi đã thành công. Chúc mừng!	Ви дочекалися поїзда і приїхали на угоду. Незважаючи на запізнення, угода пройшла успішно. Вітаємо!	電車が来るのを待って、取引の場所に着きました。遅刻したにもかかわらず、 取引は成功しました。おめでとうございます！	다음 기차를 타고 거래 장소에 도착했습니다. 약속에는 늦었지만 거래는 성공적이었습니다. 축하합니다!	In-game message
+175	Bạn lên tàu và đi tới điểm hẹn trước.	Ви сіли на поїзд і прямуєте в місце призначеної угоди.	電車に乗って、取引の場所に向かいます。	기차를 타고 약속 장소로 가서 거래를 체결했습니다.	In-game message
+176	Có tai nạn đã xảy ra trên tuyến tàu. Tàu của bạn phải dừng lại vì giao thông ùn tắc.	Аварія на шляхах. Ваш потяг зупиняється, а весь рух заблоковано.	線路で事故が起きました。電車は止まり、すべての交通が遮断されてしまいました。	철도에서 사고가 났습니다. 타고 있던 기차는 멈추고 모든 교통이 막히고 말았습니다.	In-game message
+177	Mặc dù chậm trễ, nhưng cuộc trao đổi đã thành công. Chúc mừng!	Незважаючи на запізнення, угода пройшла успішно. Вітаємо!	遅刻したにもかかわらず、取引は成功しました。おめでとうございます！	늦기는 했지만 거래는 성공적이었습니다. 축하합니다!	In-game message
+178	Cuộc trao đổi đã thành công. Chúc mừng!	Угода пройшла успішно. Вітаємо!	取引は成功しました。おめでとうございます！	거래는 성공적이었습니다. 축하합니다!	In-game message
+179	Bạn lên xe và lái xe tới điểm hẹn.	Ви сідаєте в свою машину і відправляєтеся на місце угоди.	車に乗って、取引の場所に向かいます。	자신의 차를 타고 약속 장소로 향했습니다.	In-game message
+180	Hôm nay đường rất đông, bạn sẽ tới rất muộn.	На дорогах жахливі затори тому ви спізнюєтеся.	今日は渋滞がひどいので、かなり遅刻するでしょう。	오늘은 길이 꽉 막히네요. 이거 굉장히 늦겠습니다.	In-game message
+181	Chúc mừng bạn đã mua thành công!	Вітаємо Вас із покупкою!	購入おめでとうございます！	구매 축하드립니다!	In-game message
+182	Đã bán!	Продано!	売れました！	판매!	In-game message
+183	Chào, <surname> đây! Bạn có muốn thư giãn chút không? Tôi cùng những người bạn đang định đi tới quán bar.	Привіт, це <surname>! Чи не бажаєш відпочити? Ми тут з друзями збираємося до бару.	どうも、<surname>です。たまには羽を伸ばさないか？友達と一緒にバーに行くところなんだ。	여보세요, <surname>인데요! 기분이나 내러 갈래요? 오늘 친구들이랑 같이 술 마시러 갈 건데.	a phone call from a friend
 184	Pachinko	Пачінко	パチンコ	파칭코	UI	
-185	Would you like to buy 50 balls for {global.pachipek}?	Ви хочете придбати 50 кульок для гри за {global.pachipek}?	パチンコ玉50 個を{global.pachipek}で買いますか？	{global.pachipek}에 구슬 50개를 살까요?	UI	
-186	Do you want to finish the game and sell your balls for {global.pach}?	Ви хочете закінчити гру і продати свої кульки {global.pach}?	パチンコを止めて、持っているパチンコ玉を{global.pach}で売りますか？	게임을 끝내고 구슬을 {global.pach}에 팔까요?	UI	
-187	Thank you for playing!	Дякуємо за гру!	ご来場ありがとうございました！	이용해주셔서 감사합니다!	Message in Pachinko (like goodbye)	
-188	Hi, this is <surname>! Would you like to play Pachinko today?	Привіт, це <surname>! Не бажаєш сьогодні зіграти у Пачінко?	どうも、<surname>です。今日はパチンコでも打ちに行かないか？	여보세요, <surname>인데요! 같이 파칭코 치러 갈래요?	a phone call from a friend	
-189	Thank you so much! I'll pay you back for sure!	Величезне дякую! Я обов'язково все поверну!	いやぁ、助かるよ！必ず返すから！	정말 고마워요! 꼭 갚을게요!	a phone call from a friend	
-190	Name	Назва	銘柄名	이름	UI	
-191	Stock price	Ціна акції	株価	주가	UI	
-192	Your stocks (your share)	Ваші акції (ваша частка)	保有株（持株比率）	보유주 (내 지분)	UI	
-193	Buy	Купити	買い	사기	UI	
-194	Sell	Продати	売り	팔기	UI	
-195	Commission for sale:	Комісія за продаж:	売買手数料：	거래 수수료:	UI	
-196	One of the shareholders of <global.companyforq> sold a large portion of the company's stock, causing its price to fall.	Один з акціонерів компанії <global.companyforq> розпродав вагому частку акцій і тим самим обвалив її курс.	<global.companyforq>の株主の一人が同社の株を大量に売却したため、株価が下落しました。	<global.companyforq> 대주주 하나가 회사 지분을 대량으로 매각하면서 주가가 하락했습니다.	News	
-197	There has been a major stock purchase in <global.companyforq>. <global.myname> now owns <global.companyacforq>% of the company. This has a positive effect on the stock price.	У компанії <global.companyforq> сталася велика купівля акції. <global.myname> тепер володіє <global.companyacforq>% компанії.#Це позитивно позначається на курсі.	<global.companyforq>で大規模な株式購入がありました。<global.myname>氏は現在、同社の<global.companyacforq>%を所有しています。これは株価に好影響をもたらすでしょう。	<global.companyforq>의 주식을 대량 매입한 큰손이 나타났습니다. <global.myname> 씨는 이 기업의 지분 <global.companyacforq>%를 보유하게 되면서 주가에 긍정적인 영향이 미칠 것으로 예상됩니다.	News	
-198	Bartender	Бармен	バーテンダー	바텐더	UI	
-199	Thank you for visiting us! ##According to the bill, you owe {global.bartrat}.	Дякуємо що завітали до нас! ##З вас {global.bartrat}.	ご来店いただきありがとうございます。お会計は{global.bartrat}になります。	방문해 주셔서 감사합니다! ##총 {global.bartrat} 되겠습니다.	Message from bartender	
-200	It's so fun!	Ну що, будьмо!	すごく楽しい！	정말 즐겁다!	Thoughts of the main character	
-201	Reflections	Думки	反省	생각	Thoughts of the main character	
-202	Maybe it's time to go home?	Можливо вже досить?	そろそろ帰る時間では？	슬슬 집에 갈까?	UI	
-203	A strange fellow sits down next to you. He offers you a deal - to sell drugs under the guise of a new company. You are immediately offered a 30% stake, but you know this is dangerous. Do you want to start an illegal business?	До вас підсаджується якийсь підозрилий чолов'яга. Він пропонує вам новий бізнес - продавати наркотики під виглядом нової компанії. Вам відразу ж пропонується частка 30% у бізнесі, проте ви знаєте - що це небезпечна справа. Ви бажаєте почати нелегальний бізнес?	見知らぬ男が隣に座っています。彼は新会社を装って麻薬を密売する取引を持ちかけます。すぐに30%の出資を提案されましたが、これは危険なビジネスです。違法なビジネスを始めたいですか？	웬 낯선 사람이 옆에 와서 앉더니, 새로운 회사를 하나 차려서 마약을 판매하자는 거래를 제안해 옵니다. 일단 지분 30%를 보장해 주겠다지만 이게 위험한 일인 건 분명합니다. 범죄 사업을 시작하고 싶으신가요?	In-game message	
-204	A childhood friend of yours sits down next to you. He tearfully asks you for a {global.dolgprosit} loan, promising to pay it back in full with interest in a few months.	До вас підсаджується друг дитинства. Він богом молить вас дати йому в борг {global.dolgprosit}. Обіцяє повернути усю суму з відсотками через декілька місяців.	幼なじみが隣に座っています。彼は涙ながらにあなたに{global.dolgprosit}を貸してほしいと頼み、数か月後に利子をつけて全額返済すると約束します。	어렸을 때 친구가 옆에 와서 앉더니 {global.dolgprosit}만 빌려 달라면서 간절하게 호소합니다. 몇 달 내로 이자까지 붙여 갚겠다면서요.	In-game message	
-205	Among the drunken chatter of your friends, you hear that <global.kompa> is about to go up dramatically in price, and you plan to buy shares. You are not sure whether to believe these words.	Ви чуєте серед п'яних розмов своїх друзів, що компанія <global.kompa> матиме високі прибутки і вони планують закупитися акціями. Ви не упевнені, чи варто вірити цим словам.	酔った友人たちのおしゃべりの中で、<global.kompa>が劇的に値上がりしそうだと聞き、あなたはその株を買う気になりますが、まだその言葉を信じていいのかどうか迷っています。	술기운이 오른 친구들끼리 오가는 잡담 속에서 <global.kompa> 사의 주가가 곧 급등할 것이라는 이야기가 들립니다. 그 말대로라면 지분을 사두는 편이 좋겠지만, 이렇게 주워들은 정보를 믿을 수 있을지는 모르겠습니다.	In-game message	
-206	Yes	Так	はい	예	UI	
-207	No	Ні	いいえ	아니요	UI	
-208	Place your bet on the horse	Вкажіть вашу ставку на коня	購入する馬券の金額を決めてください	마권 금액을 정해주세요	UI	
-209	Select the horse you want to bet on.	Оберіть коня, на якого хочете поставити.	賭けたい馬を選んでください	돈을 걸 말을 고르세요	UI	
+185	Bạn có muốn mua 50 hạt với giá {global.pachipek}?	Ви хочете придбати 50 кульок для гри за {global.pachipek}?	パチンコ玉50 個を{global.pachipek}で買いますか？	{global.pachipek}에 구슬 50개를 살까요?	UI
+186	Bạn có muốn ra về và đổi tất cả số hạt lấy {global.pach}?	Ви хочете закінчити гру і продати свої кульки {global.pach}?	パチンコを止めて、持っているパチンコ玉を{global.pach}で売りますか？	게임을 끝내고 구슬을 {global.pach}에 팔까요?	UI
+187	Cảm ơn bạn đã chơi!	Дякуємо за гру!	ご来場ありがとうございました！	이용해주셔서 감사합니다!	Message in Pachinko (like goodbye)
+188	Chào, <surname> đây! Hôm nay bạn có muốn chơi Pachinko không?	Привіт, це <surname>! Не бажаєш сьогодні зіграти у Пачінко?	どうも、<surname>です。今日はパチンコでも打ちに行かないか？	여보세요, <surname>인데요! 같이 파칭코 치러 갈래요?	a phone call from a friend
+189	Tôi vô cùng cảm ơn bạn! Tôi chắc chắn sẽ trả lại cho bạn!	Величезне дякую! Я обов'язково все поверну!	いやぁ、助かるよ！必ず返すから！	정말 고마워요! 꼭 갚을게요!	a phone call from a friend
+190	Tên	Назва	銘柄名	이름	UI
+191	Giá cổ phiếu	Ціна акції	株価	주가	UI
+192	Cổ phiếu của bạn (cổ phần)	Ваші акції (ваша частка)	保有株（持株比率）	보유주 (내 지분)	UI
+193	Mua	Купити	買い	사기	UI
+194	Bán	Продати	売り	팔기	UI
+195	Đang được rao bán:	Комісія за продаж:	売買手数料：	거래 수수료:	UI
+196	Một trong những cổ đông của công ty <global.companyforq> đã bán một lượng lớn cổ phiếu của công ty khiến cho giá của chúng bị sụt giảm.	Один з акціонерів компанії <global.companyforq> розпродав вагому частку акцій і тим самим обвалив її курс.	<global.companyforq>の株主の一人が同社の株を大量に売却したため、株価が下落しました。	<global.companyforq> 대주주 하나가 회사 지분을 대량으로 매각하면서 주가가 하락했습니다.	News
+197	Đã có một lượng lớn cổ phiếu của công ty <global.companyforq> được mua lại. <global.myname> bây giờ đã sở hữu <global.companyacforq>% của công ty. Điều này mang lại dấu hiệu tích cực cho giá cổ phiếu công ty này.	У компанії <global.companyforq> сталася велика купівля акції. <global.myname> тепер володіє <global.companyacforq>% компанії.#Це позитивно позначається на курсі.	<global.companyforq>で大規模な株式購入がありました。<global.myname>氏は現在、同社の<global.companyacforq>%を所有しています。これは株価に好影響をもたらすでしょう。	<global.companyforq>의 주식을 대량 매입한 큰손이 나타났습니다. <global.myname> 씨는 이 기업의 지분 <global.companyacforq>%를 보유하게 되면서 주가에 긍정적인 영향이 미칠 것으로 예상됩니다.	News
+198	Người pha chế	Бармен	バーテンダー	바텐더	UI
+199	Cảm ơn bạn đã ghé thăm! ##Dựa theo hóa đơn, bạn đã trả {global.bartrat}.	Дякуємо що завітали до нас! ##З вас {global.bartrat}.	ご来店いただきありがとうございます。お会計は{global.bartrat}になります。	방문해 주셔서 감사합니다! ##총 {global.bartrat} 되겠습니다.	Message from bartender
+200	Chỗ này vui quá!	Ну що, будьмо!	すごく楽しい！	정말 즐겁다!	Thoughts of the main character
+201	Ngẫm nghĩ	Думки	反省	생각	Thoughts of the main character
+202	Có lẽ đã đến lúc về nhà?	Можливо вже досить?	そろそろ帰る時間では？	슬슬 집에 갈까?	UI
+203	Một người lạ mặt ngồi cạnh bạn. Anh ta cho bạn một giao kèo - bán thuốc dưới vỏ bọc của một công ty mới. Bạn được sở hữu 30% công ty này, nhưng bạn biết điều này nguy hiểm. Bạn có muốn bắt đầu một sự nghiệp kinh doanh bất chính?	До вас підсаджується якийсь підозрилий чолов'яга. Він пропонує вам новий бізнес - продавати наркотики під виглядом нової компанії. Вам відразу ж пропонується частка 30% у бізнесі, проте ви знаєте - що це небезпечна справа. Ви бажаєте почати нелегальний бізнес?	見知らぬ男が隣に座っています。彼は新会社を装って麻薬を密売する取引を持ちかけます。すぐに30%の出資を提案されましたが、これは危険なビジネスです。違法なビジネスを始めたいですか？	웬 낯선 사람이 옆에 와서 앉더니, 새로운 회사를 하나 차려서 마약을 판매하자는 거래를 제안해 옵니다. 일단 지분 30%를 보장해 주겠다지만 이게 위험한 일인 건 분명합니다. 범죄 사업을 시작하고 싶으신가요?	In-game message
+204	Bạn thuở nhỏ đột nhiên ngồi cạnh bạn. Anh ta rưng rưng nước mắt cầu xin  một khoản nợ {global.dolgprosit}, anh ta hứa rằng sẽ trả cả vốn lẫn lãi trong một vài tháng.	До вас підсаджується друг дитинства. Він богом молить вас дати йому в борг {global.dolgprosit}. Обіцяє повернути усю суму з відсотками через декілька місяців.	幼なじみが隣に座っています。彼は涙ながらにあなたに{global.dolgprosit}を貸してほしいと頼み、数か月後に利子をつけて全額返済すると約束します。	어렸을 때 친구가 옆에 와서 앉더니 {global.dolgprosit}만 빌려 달라면서 간절하게 호소합니다. 몇 달 내로 이자까지 붙여 갚겠다면서요.	In-game message
+205	Trong cuộc tán gẫu say xỉn của những người bạn, bạn nghe rằng <global.kompa> sẽ tăng giá chóng mặt, và bạn định mua cổ phiếu công ty này. Bạn vẫn chưa chắc rằng bạn có nên tin vào những điều họ nói.	Ви чуєте серед п'яних розмов своїх друзів, що компанія <global.kompa> матиме високі прибутки і вони планують закупитися акціями. Ви не упевнені, чи варто вірити цим словам.	酔った友人たちのおしゃべりの中で、<global.kompa>が劇的に値上がりしそうだと聞き、あなたはその株を買う気になりますが、まだその言葉を信じていいのかどうか迷っています。	술기운이 오른 친구들끼리 오가는 잡담 속에서 <global.kompa> 사의 주가가 곧 급등할 것이라는 이야기가 들립니다. 그 말대로라면 지분을 사두는 편이 좋겠지만, 이렇게 주워들은 정보를 믿을 수 있을지는 모르겠습니다.	In-game message
+206	Có	Так	はい	예	UI
+207	Không	Ні	いいえ	아니요	UI
+208	Hãy đặt cược lên con ngựa bạn chọn	Вкажіть вашу ставку на коня	購入する馬券の金額を決めてください	마권 금액을 정해주세요	UI
+209	Chọn con ngựa bạn muốn cược.	Оберіть коня, на якого хочете поставити.	賭けたい馬を選んでください	돈을 걸 말을 고르세요	UI
 210	Living Mountain	Жива Гора	リビングマウンテン	리빙 마운틴	Name of the horse	
 211	Clear Sky	Ясне Небо	クリアスカイ	클리어 스카이	Name of the horse	
 212	Suzuka Flora	Судзука Флора	鈴鹿フローラ	스즈카 플로라	Name of the horse	
 213	Shadow	Тінь	シャドー	쉐도우	Name of the horse	
 214	Big Arthur	Великий Артур	ビッグアーサー	빅 아서	Name of the horse	
-215	You're in jail	Ви у в'язниці	あなたは刑務所にいます	지금은 감옥에 있습니다	UI	
-216	You're in the hospital	Ви у лікарні	あなたは入院中です	지금은 병원에 입원했습니다	UI	
-217	The <global.nameme> is coming to the stock market.	На фондову біржу виходить компанія <global.nameme>.	<global.nameme>が株式市場に上場します。	<global.nameme> 사가 상장 예정입니다.	News	
+215	Bạn đã vào tù	Ви у в'язниці	あなたは刑務所にいます	지금은 감옥에 있습니다	UI
+216	Bạn đã vào bệnh viện	Ви у лікарні	あなたは入院中です	지금은 병원에 입원했습니다	UI
+217	<global.nameme> sắp được lên sàn chứng khoán.	На фондову біржу виходить компанія <global.nameme>.	<global.nameme>が株式市場に上場します。	<global.nameme> 사가 상장 예정입니다.	News
 218	Amy	Емі	恵美	메구미	UI	
-219	Sunday	Неділя	日曜日	일요일	UI	
-220	Monday	Понеділок	月曜日	월요일	UI	
-221	Tuesday	Вівторок	火曜日	화요일	UI	
-222	Wednesday	Середа	水曜日	수요일	UI	
-223	Thursday	Четвер	木曜日	목요일	UI	
-224	Friday	П'ятниця	金曜日	금요일	UI	
-225	Saturday	Субота	土曜日	토요일	UI	
-226	(according to the interest, the debt is increased by {global.credituvelichen})	(згідно з кредитними відсотками борг збільшений на {global.credituvelichen})	（利率に従って、{global.credituvelichen}ずつ負債が増えます）	(현재 금리에 따라 부채가 {global.credituvelichen}만큼 증가했습니다)	News	
-227	<companynm> fails in its latest project, resulting in large losses.	Компанія <companynm> терпить невдачу у своєму останньому проекті, що призводить до великих збитків.	<companynm>が最新プロジェクトで失敗し、大きな損失を出しました。	최근 <companynm>에서 프로젝트 실패로 인해 큰 손실이 발생했다고 합니다.	News	
-228	The leading business newspaper Nippon Keizai sees a bright future for <companynm>, causing excitement in the stock market.	Провідна економічна газета "Ніппон Кейзай" пророкує компанії <companynm> світле майбутнє, що піднімає ажіотаж на біржі.	大手経済紙の日本経済新聞が、<companynm>に将来性があると見たため、株式市場を沸かせています。	닛케이 신문에서 <companynm>의 미래를 밝게 평가하면서 주가가 상승했습니다.	News	
-229	The dubious financial newspaper Maminoshinjitsu publishes unpleasant information about the management of <companynm>, which is reflected in the company's share price.	Сумнівне фінансове видання "Маміношінджіцу" публікує неприємну інформацію про керівництво компанії <companynm>, що відображається на курсі акцій компанії.	怪しげな金融情報誌『真実（マミ）の真実』は、<companynm>の経営陣に関する好ましくない情報を掲載し、それが同社の株価に影響を与えています。	금융 찌라시 '마미의 진실'에서 <companynm> 경영진에 대한 불리한 정보를 게재하면서 주가에도 영향이 가고 있다는 소식입니다.	News	
-230	The company <companynm> has finally recovered from a long crisis. The last successful project brought a large profit.	Компанія <companynm> нарешті вийшла із затяжної кризи. Останній успішний проект приніс великий прибуток.	<companynm>社は、長く続いた危機からようやく立ち直りました。前回成功したプロジェクトが大きな利益をもたらしました。	<companynm> 사는 마침내 오랜 불황을 극복하고 최근 프로젝트에서 큰 수익을 거두었습니다.	News	
-231	Until recently, investors shunned <companynm>. Too bad, analysts say. Recent reports show that the company has good earnings. Investor interest in <companynm> is growing, and the stock price is rising.	До недавніх пір інвестори обходили стороною компанію <companynm>. Проте даремно, вважають аналітики. Останні звіти показують, що у компанії стабільні прибутки. Інтерес інвесторів до <companynm> посилюється і курс акцій підіймається.	最近まで投資家は<companynm>を敬遠していました。しかし、アナリストはこれは残念なことだと言います。最近の報告書を見ると、業績は順調に推移しています。<companynm>に対する投資家の関心は高まっており、株価も上昇しています。	투자자들은 최근까지 <companynm> 사를 크게 기꺼워 하지 않았는데요. 애널리스트들에 따르면 참 안타까운 일이라고 합니다. <companynm>에서 괜찮은 실적을 올리면서 투자자들의 관심도 높아지고 주가도 상승하고 있으니까요.	News	
-232	The Bubble Has Burst! The value of <companynm> stock has collapsed and continues to collapse. They appear to have been grossly overvalued and not supported by the market value of all of the company's assets.	Бульбашка лопнула! Акції компанії <companynm> різко впали в ціні і продовжують це робити. Здається, їх вартість була сильно переоцінена і не підкріплена ринковою вартістю усіх активів компанії.	バブル崩壊！<companynm>株が暴落し、現在も急落が続いています。同社の評価は全資産の市場価値に裏付けられておらず、著しく過大評価されていたようです。	버블이 붕괴했다는 소식입니다! <companynm>의 주가가 끝도 없이 나락으로 떨어지고 있습니다. 이 회사의 평가는 전체 자산의 시장 가치에 비해 지나치게 과대평가 되었던 것으로 보입니다.	News	
-233	The CFO of <companynm> was interviewed on television. They talked about the stock market and the company's business. People are even more willing to buy the company's stock.	Фінансовий директор компанії <companynm> дав інтерв'ю на телебаченні, розповівши про ринок цінних паперів і справи компанії. Акції компанії стали купувати краще.	<companynm>の最高財務責任者がテレビインタビューを受け、株式市場や会社の事業について語りました。その結果、同社株の積極的な買いが増加しています。	<companynm>의 CFO가 텔레비전 인터뷰를 진행하면서 현재 주식 시장과 자사의 사업에 대해 분석해 주었는데요. 덕분에 시청자들은 이 회사의 주식 매입에 더 큰 관심을 보이고 있는 모양입니다.	News	
-234	Recent successful deal by <companynm> increased company's revenue.	Остання успішна угода <companynm> підвищила доходи компанії.	最近、 <companynm>は取引に成功し、収益を増加させました。	최근 <companynm>에서 거둔 성공 덕분에 회사 주가도 덩달아 뛰고 있다고 합니다.	News	
-235	A lot of <companynm> products turned out to be defective! The company recalls the products from the stores and prepares to replace them with working ones at no charge. Expenses skyrocket.	Безліч продукції компанії <companynm> виявилася бракованою! Компанія відкликає товари з магазинів і готується безкоштовно замінювати його. Витрати різко ростуть.	<companynm>の製品に不良品が多いことが判明！同社は店頭から製品を回収し、無償で正常品と交換する準備を進めています。経費が急激に上昇しています。	<companynm> 제품 다수에서 결함이 발생했다는 소식입니다! 사측에서는 이미 제품 리콜 및 무상 교환이라는 대책을 내놓았습니다. 하지만 비용 급증은 피할 수 없을 것으로 보입니다.	News	
-236	A TV report about working conditions at <companynm> negatively affected the company's stock price.	Репортаж на ТБ про умови праці в компанії <companynm> негативно вплинув на вартість акцій компанії.	<companynm>の労働環境に関するテレビ報道が、同社の株価に悪影響を及ぼしました。	<companynm>의 열악한 노동 환경이 방송으로 폭로되면서 주가에도 악영향이 가고 있습니다.	News	
-237	Car crash! Luckily you are unhurt, but your car is beyond repair.	Аварія! На щастя ви не постраждали, але ваш автомобіль не підлягає ремонту.	車の事故！幸い怪我はありませんでしたが、車は修理不能です。	교통사고가 났습니다! 다행히 다치지는 않았지만 차는 완전히 박살 나고 말았습니다.	In-game message in UI	
-238	You have been fined {shtraf} for running a red light.	За проїзд на червоне світло вам виписали штраф у розмірі {shtraf}.	信号無視で罰金{shtraf}を科されました。	신호 위반으로 벌금 {shtraf}이 부과되었습니다.	In-game message in UI	
-239	The insurance company pays you {carstahprice}.	Страхова компанія виплачує вам {carstahprice}.	保険会社はあなたに{carstahprice}を支払います。	보험으로 {carstahprice}을 처리했습니다.	In-game message in UI	
-240	Your car was involved in a minor accident. Your car is slightly damaged.	Ви потрапили в невелику аварію. Ваше авто трошки постраждало.	小さな事故に巻き込まれました。車が軽度の損傷を受けました。	가벼운 자동차 접촉 사고가 발생했습니다. 차가 조금 망가졌습니다.	In-game message in UI	
-241	Oh no!	От халепа!	なんてこった！	이런!	In-game message in UI	
-242	The insurance company pays you {carstahprice}. This is <procentcar>% of the value of your car.	Страхова компанія виплачує вам {carstahprice}. Це <procentcar>% від вартості вашого авто.	保険会社はあなたに{carstahprice}を支払います。これは車の価値の<procentcar>%です。	보험으로 {carstahprice}만큼을 처리했습니다. 차량 가치의 <procentcar>% 입니다.	In-game message in UI	
-243	The bill for car maintenance:#	Рахунок за обслуговування автомобіля -	車の整備代は#	차량 유지비용:#	In-game message in UI	
-244	Car workshop	Автомайстерня	自動車整備工場	카센터	UI	
-245	Do you remember how much you loved oyakodon when you were a kid? I'll make you some more! Just come to visit.	А пам'ятаєш як ти оякодон у дитинстві любив? Я тобі ще приготую! Ти тільки приїжджай.	子供の頃、親子丼が大好きだったことを覚えているかしら？また作ってあげるわよ！だから遊びに来なさい。	얘, 너 어렸을 때처럼 오야코동 먹고 싶지 않니? 이번에 내려오면 많이 만들어 줄게!	Messages from mother	
-246	Big misfortunes come from small causes!	Великі нещастя походять від малих причин!	大きな不幸は小さなきっかけから生まれるのよ！	크나큰 불행도 작은 계기로 시작되는 거란다!	Messages from mother	
-247	Even the journey of a thousand ri begins with a single step.	Навіть шлях в тисячу рі розпочинається з одного кроку.	千里の道も一歩からよ。	천릿길도 한걸음부터라잖니.	Messages from mother	
-248	Money makes money.	Гроші народжують гроші.	お金がお金を生むのよ。	돈으로 돈을 벌려고 해 보렴.	Messages from mother	
-249	Tomorrow's wind will blow tomorrow.	Завтра подує завтрашній вітер.	明日は明日の風が吹くわ。	내일의 바람은 내일 불어 올 테니까.	Messages from mother	
-250	How are you feeling? Are you getting enough rest? You are probably so busy that even the cat can help!	Як ти там? Відпочиваєш хоч іноді? Напевно зайнятий так, що і допомога кішки згодиться!	気分はどう？ちゃんと休みを取ってるの？きっと猫の手も借りたいほど忙しいのでしょう！	요새 몸은 좀 어떠니? 잠은 푹 자고? 너무 바빠서 고양이 손이라도 빌리고 싶겠구나!	Messages from mother	
-251	True patience is that kind of patience when patience is impossible.	Справжнє терпіння - це таке терпіння, коли терпіти не під силу.	ならぬ堪忍するが堪忍よ。	진짜 인내심은 도저히 참을 수 없을 때 발휘되는 거란다.	Messages from mother	
+219	Chủ nhật	Неділя	日曜日	일요일	UI
+220	Thứ hai	Понеділок	月曜日	월요일	UI
+221	Thứ ba	Вівторок	火曜日	화요일	UI
+222	Thứ tư	Середа	水曜日	수요일	UI
+223	Thứ năm	Четвер	木曜日	목요일	UI
+224	Thứ sáu	П'ятниця	金曜日	금요일	UI
+225	Thứ bảy	Субота	土曜日	토요일	UI
+226	(dựa vào lãi suất, khoản nợ đã tăng {global.credituvelichen})	(згідно з кредитними відсотками борг збільшений на {global.credituvelichen})	（利率に従って、{global.credituvelichen}ずつ負債が増えます）	(현재 금리에 따라 부채가 {global.credituvelichen}만큼 증가했습니다)	News
+227	<companynm> đã thất bại trong dự án gần đây, gây nên một khoản thất thoát lớn.	Компанія <companynm> терпить невдачу у своєму останньому проекті, що призводить до великих збитків.	<companynm>が最新プロジェクトで失敗し、大きな損失を出しました。	최근 <companynm>에서 프로젝트 실패로 인해 큰 손실이 발생했다고 합니다.	News
+228	Tờ báo hàng đầu về kinh doanh Nippon Keizai đã nhìn thấy một tương lai tươi sáng cho <companynm>, tạo nên sự hấp dẫn đầu tư trong thị trường.	Провідна економічна газета "Ніппон Кейзай" пророкує компанії <companynm> світле майбутнє, що піднімає ажіотаж на біржі.	大手経済紙の日本経済新聞が、<companynm>に将来性があると見たため、株式市場を沸かせています。	닛케이 신문에서 <companynm>의 미래를 밝게 평가하면서 주가가 상승했습니다.	News
+229	Tờ báo lá cải Maminoshinjitsu đã công bố thông tin không mấy tích cực dành cho <companynm>, điều này đã gây ra sự thay đổi bất ngờ trong giá cổ phiếu của công ty.	Сумнівне фінансове видання "Маміношінджіцу" публікує неприємну інформацію про керівництво компанії <companynm>, що відображається на курсі акцій компанії.	怪しげな金融情報誌『真実（マミ）の真実』は、<companynm>の経営陣に関する好ましくない情報を掲載し、それが同社の株価に影響を与えています。	금융 찌라시 '마미의 진실'에서 <companynm> 경영진에 대한 불리한 정보를 게재하면서 주가에도 영향이 가고 있다는 소식입니다.	News
+230	Công ty <companynm> cuối cùng đã hồi phục từ một cuộc đại khủng hoảng. Dự án mới đây đã mang lại doanh số kỉ lục.	Компанія <companynm> нарешті вийшла із затяжної кризи. Останній успішний проект приніс великий прибуток.	<companynm>社は、長く続いた危機からようやく立ち直りました。前回成功したプロジェクトが大きな利益をもたらしました。	<companynm> 사는 마침내 오랜 불황을 극복하고 최근 프로젝트에서 큰 수익을 거두었습니다.	News
+231	Chỉ mới gần đây, các nhà đầu tư đã từ mặt công ty <companynm>. Nhưng quá tệ, các nhà phân tích đã ra các báo cáo cho thấy công ty vẫn đang có thu nhập tốt. Sự quan tâm tới <companynm> đang tăng, và giá cổ phiếu cũng tăng theo.	До недавніх пір інвестори обходили стороною компанію <companynm>. Проте даремно, вважають аналітики. Останні звіти показують, що у компанії стабільні прибутки. Інтерес інвесторів до <companynm> посилюється і курс акцій підіймається.	最近まで投資家は<companynm>を敬遠していました。しかし、アナリストはこれは残念なことだと言います。最近の報告書を見ると、業績は順調に推移しています。<companynm>に対する投資家の関心は高まっており、株価も上昇しています。	투자자들은 최근까지 <companynm> 사를 크게 기꺼워 하지 않았는데요. 애널리스트들에 따르면 참 안타까운 일이라고 합니다. <companynm>에서 괜찮은 실적을 올리면서 투자자들의 관심도 높아지고 주가도 상승하고 있으니까요.	News
+232	Bong bóng đã vỡ! Giá trị của cổ phiếu <companynm> đã rớt giá thảm hại và vấn tiếp tục. Công ty đã bị đánh giá quá cao nhưng lại không được chống lưng bởi giá trị thật.	Бульбашка лопнула! Акції компанії <companynm> різко впали в ціні і продовжують це робити. Здається, їх вартість була сильно переоцінена і не підкріплена ринковою вартістю усіх активів компанії.	バブル崩壊！<companynm>株が暴落し、現在も急落が続いています。同社の評価は全資産の市場価値に裏付けられておらず、著しく過大評価されていたようです。	버블이 붕괴했다는 소식입니다! <companynm>의 주가가 끝도 없이 나락으로 떨어지고 있습니다. 이 회사의 평가는 전체 자산의 시장 가치에 비해 지나치게 과대평가 되었던 것으로 보입니다.	News
+233	CFO (Giám đốc tài chính) của <companynm> đã được phỏng vấn trên truyền hình. Họ đã bàn luận về chứng khoán và tình trạng làm ăn của công ty. Mọi người lại càng muốn mua cổ phiếu của công ty hơn.	Фінансовий директор компанії <companynm> дав інтерв'ю на телебаченні, розповівши про ринок цінних паперів і справи компанії. Акції компанії стали купувати краще.	<companynm>の最高財務責任者がテレビインタビューを受け、株式市場や会社の事業について語りました。その結果、同社株の積極的な買いが増加しています。	<companynm>의 CFO가 텔레비전 인터뷰를 진행하면서 현재 주식 시장과 자사의 사업에 대해 분석해 주었는데요. 덕분에 시청자들은 이 회사의 주식 매입에 더 큰 관심을 보이고 있는 모양입니다.	News
+234	Một trong những cuộc trao đổi của <companynm> đã gia tăng sự uy tín của công ty.	Остання успішна угода <companynm> підвищила доходи компанії.	最近、 <companynm>は取引に成功し、収益を増加させました。	최근 <companynm>에서 거둔 성공 덕분에 회사 주가도 덩달아 뛰고 있다고 합니다.	News
+235	Rất nhiều sản phẩm thuộc <companynm> gặp nhiều khiếm khuyết! Công ty đã thu hồi lại tất cả các sản phẩm và thay thế chúng. Chi phí tăng chóng mặt.	Безліч продукції компанії <companynm> виявилася бракованою! Компанія відкликає товари з магазинів і готується безкоштовно замінювати його. Витрати різко ростуть.	<companynm>の製品に不良品が多いことが判明！同社は店頭から製品を回収し、無償で正常品と交換する準備を進めています。経費が急激に上昇しています。	<companynm> 제품 다수에서 결함이 발생했다는 소식입니다! 사측에서는 이미 제품 리콜 및 무상 교환이라는 대책을 내놓았습니다. 하지만 비용 급증은 피할 수 없을 것으로 보입니다.	News
+236	Một chương trình truyền hình đã báo cáo tính trạng làm ăn của <companynm> và đã gây ảnh hưởng xấu tới giá cổ phiếu.	Репортаж на ТБ про умови праці в компанії <companynm> негативно вплинув на вартість акцій компанії.	<companynm>の労働環境に関するテレビ報道が、同社の株価に悪影響を及ぼしました。	<companynm>의 열악한 노동 환경이 방송으로 폭로되면서 주가에도 악영향이 가고 있습니다.	News
+237	Bạn đã bị tai nạn xe! May mắn là bạn không bị thương, nhưng xe của bạn đã bị hư hại năng.	Аварія! На щастя ви не постраждали, але ваш автомобіль не підлягає ремонту.	車の事故！幸い怪我はありませんでしたが、車は修理不能です。	교통사고가 났습니다! 다행히 다치지는 않았지만 차는 완전히 박살 나고 말았습니다.	In-game message in UI
+238	Bạn đã bị phạt {shtraf} vì vượt đèn đỏ.	За проїзд на червоне світло вам виписали штраф у розмірі {shtraf}.	信号無視で罰金{shtraf}を科されました。	신호 위반으로 벌금 {shtraf}이 부과되었습니다.	In-game message in UI
+239	Công ty bảo hiểm đã trả bạn {carstahprice}.	Страхова компанія виплачує вам {carstahprice}.	保険会社はあなたに{carstahprice}を支払います。	보험으로 {carstahprice}을 처리했습니다.	In-game message in UI
+240	Bạn bị đụng xe. Xe của bạn đã bị hư hại đôi chút	Ви потрапили в невелику аварію. Ваше авто трошки постраждало.	小さな事故に巻き込まれました。車が軽度の損傷を受けました。	가벼운 자동차 접촉 사고가 발생했습니다. 차가 조금 망가졌습니다.	In-game message in UI
+241	Ôi không!	От халепа!	なんてこった！	이런!	In-game message in UI
+242	Công ty bảo hiểm đã trả bạn {carstahprice}. Đây là <procentcar>% giá trị của chiếc xe.	Страхова компанія виплачує вам {carstahprice}. Це <procentcar>% від вартості вашого авто.	保険会社はあなたに{carstahprice}を支払います。これは車の価値の<procentcar>%です。	보험으로 {carstahprice}만큼을 처리했습니다. 차량 가치의 <procentcar>% 입니다.	In-game message in UI
+243	Hóa đơn bảo dưỡng xe:#	Рахунок за обслуговування автомобіля -	車の整備代は#	차량 유지비용:#	In-game message in UI
+244	Ga-ra	Автомайстерня	自動車整備工場	카센터	UI
+245	Con còn nhớ ngày xưa con thích món oyakodon không? Mẹ sẽ làm thêm! Con về nhà với mẹ đi.	А пам'ятаєш як ти оякодон у дитинстві любив? Я тобі ще приготую! Ти тільки приїжджай.	子供の頃、親子丼が大好きだったことを覚えているかしら？また作ってあげるわよ！だから遊びに来なさい。	얘, 너 어렸을 때처럼 오야코동 먹고 싶지 않니? 이번에 내려오면 많이 만들어 줄게!	Messages from mother
+246	Chuyện xui xẻo lớn tới từ một nguyên nhân nhỏ nhặt!	Великі нещастя походять від малих причин!	大きな不幸は小さなきっかけから生まれるのよ！	크나큰 불행도 작은 계기로 시작되는 거란다!	Messages from mother
+247	Kể cả hành trình vạn dặm cũng phải khởi đầu từ một bước chân.	Навіть шлях в тисячу рі розпочинається з одного кроку.	千里の道も一歩からよ。	천릿길도 한걸음부터라잖니.	Messages from mother
+248	Tiền đẻ ra tiền.	Гроші народжують гроші.	お金がお金を生むのよ。	돈으로 돈을 벌려고 해 보렴.	Messages from mother
+249	Điều gì đến sẽ đến.	Завтра подує завтрашній вітер.	明日は明日の風が吹くわ。	내일의 바람은 내일 불어 올 테니까.	Messages from mother
+250	Con sao rồi? Dạo này con ngủ nghỉ tốt chứ ? Chắc là con bận rộn tới mức không có thì giờ chăm sóc bản thân mình chứ gì?	Як ти там? Відпочиваєш хоч іноді? Напевно зайнятий так, що і допомога кішки згодиться!	気分はどう？ちゃんと休みを取ってるの？きっと猫の手も借りたいほど忙しいのでしょう！	요새 몸은 좀 어떠니? 잠은 푹 자고? 너무 바빠서 고양이 손이라도 빌리고 싶겠구나!	Messages from mother
+251	Kiên nhẫn thực sự là sự kiên nhẫn tới mức không thể kiển nhẫn hơn được nữa.	Справжнє терпіння - це таке терпіння, коли терпіти не під силу.	ならぬ堪忍するが堪忍よ。	진짜 인내심은 도저히 참을 수 없을 때 발휘되는 거란다.	Messages from mother
 252	When wild geese soar high, even turtles tap their paws!	Коли дикі гуси парять у височині, навіть черепашки стукають лапками!	雁が飛べば石亀も地団駄ね。	황새가 걸을 땐 뱁새도 뛰어야 하지 않겠니!	Messages from mother	
 253	I heard you're a big shot up there! Remember, strong wind blows against tall trees.	Я чула ти там велика шишка! Пам'ятай, що на високі дерева і вітер сильніше!	ずいぶんお偉いさんになったそうね！「喬木に風強し」を忘れないでね！	내 새끼 출세했다면서! 하지만 가지 많은 나무에 바람 잘날 없다는 말, 잊지 말거라!	Messages from mother	
 254	If you don't respect yourself, others won't respect you.	Сам себе не поважаєш - і інші тебе не поважатимуть.	自分自身を尊重しない者は、他者からも尊重されないわよ。	네가 널 사랑하지 않으면 누가 널 사랑해 주겠니.	Messages from mother	
