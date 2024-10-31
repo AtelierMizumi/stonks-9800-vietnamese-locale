@@ -1,6 +1,6 @@
-	English	Українська	日本語	한국어	UI language name	
-1	Police	Поліція	警察	경찰	UI	
-2	Doctor	Доктор	医者	의사	UI	
+	Tiếng Việt	Українська	日本語	한국어	UI language name
+1	Cảnh sát	Поліція	警察	경찰	UI
+2	Bác sĩ	Доктор	医者	의사	UI
 3	You can't go anywhere.	Ви не можете нікуди виходити.	どこにも行けません。	지금은 어디에도 갈 수 없습니다.	UI	
 4	Closed	Закрито	休業	휴무	UI	
 5	The stock market is closed on weekends.	Сьогодні вихідний, біржа не працює.	週末は株式市場は休みです。	휴일에는 주식 시장을 열지 않습니다.	UI	
@@ -26,11 +26,11 @@
 25	Income tax	Податок на доходи	所得税	소득세	UI	
 26	Debt: 	Борг: 	負債：	부채:	UI	
 27	Home	Головна	ホーム	집	UI	
-28	Charts	Курси	チャート	차트	UI	
-29	Exchange	Біржа	取引所	거래소	UI	
-30	Stock market	Фондова біржа	株式市場	주식 시장	UI	
-31	Facilities	Послуги	施設	자산	UI	
-32	Advisor	Радниця	顧問	자문	UI	
+28	Biểu đồ	Курси	チャート	차트	UI
+29	Giao dịch	Біржа	取引所	거래소	UI
+30	Thị trường	Фондова біржа	株式市場	주식 시장	UI
+31	Cơ sở vật chất	Послуги	施設	자산	UI
+32	Thư kí	Радниця	顧問	자문	UI
 33	Real Estate	Нерухомість	不動産	부동산	UI	
 34	Car	Автомобіль	自動車	차량	UI	
 35	after selling your house	після продажу вашого будинку	所有住宅売却後	주택 매각 후	UI	
