@@ -1,7 +1,7 @@
 # STONKS 9800 Vietnamese Locale
 
 
-**Vietnamese translation** for the stock market simulator game [STONKS 9800](https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/)
+**Vietnamese translation** for the stock market simulator game <a href="https://stonks9800.neocities.org/" target="_blank"><img src="https://stonks9800.neocities.org/88x31_stonks.gif"></a>
 
 [Tiếng Việt](VIET-README.md)
 
